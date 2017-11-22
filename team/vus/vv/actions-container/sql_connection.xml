@@ -1,0 +1,16 @@
+<custom-action actionType="SQL Connection" isHit="false"
+    name="sql_connection" uid="8ef44ad6-4f0e-43cc-bd99-9e64b9b23c48">
+    <description>This action connects to a SQL database.
+Possible parameters are:
+- connectionName: (required) the name of the connection to map with other advanced actions.
+- connectionURL: (required) the JDBC connection URL (jdbc:mysql://localhost:3306/).
+- connection.user: (optional) the user name to connect the DB.
+- connection.password: (optional) the password of the user.
+- connection.&lt;propertyName&gt;: (optional) a connection property.
+- driverClassName: (optional) fully qualified name of a custom driver class. NeoLoad embeds drivers for Oracle, MS SQL Server, MySQL and PostgreSQL.</description>
+    <custom-action-parameter name="connectionName" type="TEXT" value="myConnection"/>
+    <custom-action-parameter name="connectionURL" type="TEXT" value=""/>
+    <custom-action-parameter name="connection.user" type="TEXT" value=""/>
+    <custom-action-parameter name="connection.password" type="PASSWORD" value=""/>
+    <responsePageFileDescription>recorded-responses/res_8ef44ad6-4f0e-43cc-bd99-9e64b9b23c48</responsePageFileDescription>
+</custom-action>

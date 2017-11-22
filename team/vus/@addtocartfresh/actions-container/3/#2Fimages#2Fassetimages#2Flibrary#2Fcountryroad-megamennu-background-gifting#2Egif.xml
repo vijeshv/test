@@ -1,0 +1,351 @@
+<http-page executeResourcesDynamically="false"
+    name="/images/assetimages/library/countryroad-megamennu-background-gifting.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    slaProfileEnabled="false" thinkTime="503"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="94bb1001-d971-4c54-af36-e7b1c76a426b">
+    <embedded-action>3985174b-808e-4071-872b-670e33401f3b</embedded-action>
+    <embedded-action>abb2a630-631a-4623-865e-636078dbfa80</embedded-action>
+    <embedded-action>172dd80d-5703-4e21-a685-2bc783dd3b23</embedded-action>
+    <embedded-action>c2ee2e8a-8e31-40f4-8390-ea80e76fc4d6</embedded-action>
+    <embedded-action>1ce8e0f0-fc0d-470c-8741-01093c32178b</embedded-action>
+    <embedded-action>8ca13b05-5d80-4762-92ef-03dca6867840</embedded-action>
+    <embedded-action>782411b0-edf1-427a-81ce-a6cac45efb0b</embedded-action>
+    <embedded-action>670c584d-ad42-4561-a999-607610276ebb</embedded-action>
+    <embedded-action>e8fb1200-0919-4322-a36e-511b6ce374ff</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_df93fc4e-3188-4e22-af72-3555a58ac096.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;e0b926bea5cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:46:41 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/library/countryroad-megamennu-background-gifting.gif"
+    path="/images/assetimages/library/countryroad-megamennu-background-gifting.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="3985174b-808e-4071-872b-670e33401f3b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3985174b-808e-4071-872b-670e33401f3b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3985174b-808e-4071-872b-670e33401f3b.txt</requestContentFileDescription>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/gif&#xd;
+last-modified: Tue, 14 Nov 2017 01:46:41 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: e0b926bea5cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 1122&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:52 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;7dec058c45dd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Nov 2017 03:46:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-her-desktop.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-her-desktop.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="abb2a630-631a-4623-865e-636078dbfa80" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_abb2a630-631a-4623-865e-636078dbfa80</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_abb2a630-631a-4623-865e-636078dbfa80.txt</requestContentFileDescription>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Wed, 15 Nov 2017 03:46:40 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 7dec058c45dd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4275&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:52 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;45f6978e65cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:18:25 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-him-desktop.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-him-desktop.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="172dd80d-5703-4e21-a685-2bc783dd3b23" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_172dd80d-5703-4e21-a685-2bc783dd3b23</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_172dd80d-5703-4e21-a685-2bc783dd3b23.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 01:18:25 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 45f6978e65cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4531&#xd;
+cache-control: max-age=604781&#xd;
+expires: Thu, 23 Nov 2017 12:50:33 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;9ab84f5bdd5cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 00:13:11 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-kris-kringle-gifts.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-kris-kringle-gifts.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="c2ee2e8a-8e31-40f4-8390-ea80e76fc4d6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c2ee2e8a-8e31-40f4-8390-ea80e76fc4d6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c2ee2e8a-8e31-40f4-8390-ea80e76fc4d6.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 00:13:11 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 9ab84f5bdd5cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4515&#xd;
+cache-control: max-age=604785&#xd;
+expires: Thu, 23 Nov 2017 12:50:37 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;8cbdc42e65cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:16:55 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-girls-desktop.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-girls-desktop.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="1ce8e0f0-fc0d-470c-8741-01093c32178b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1ce8e0f0-fc0d-470c-8741-01093c32178b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1ce8e0f0-fc0d-470c-8741-01093c32178b.txt</requestContentFileDescription>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 01:16:55 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 8cbdc42e65cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 6140&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:52 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;74b33047e65cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:17:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-boys-desktop.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-boys-desktop.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="8ca13b05-5d80-4762-92ef-03dca6867840" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8ca13b05-5d80-4762-92ef-03dca6867840</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8ca13b05-5d80-4762-92ef-03dca6867840.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 01:17:03 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 74b33047e65cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4914&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:52 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;c081324be65cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:17:09 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-babies-desktop.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-landing-2-gifts-for-babies-desktop.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="782411b0-edf1-427a-81ce-a6cac45efb0b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_782411b0-edf1-427a-81ce-a6cac45efb0b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_782411b0-edf1-427a-81ce-a6cac45efb0b.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 01:17:09 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: c081324be65cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4010&#xd;
+cache-control: max-age=604789&#xd;
+expires: Thu, 23 Nov 2017 12:50:41 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;f561365c35dd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Nov 2017 03:39:51 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-personalise/country-road-make-it-personal-mega-menu.jpg"
+    path="/images/assetimages/cr-personalise/country-road-make-it-personal-mega-menu.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="670c584d-ad42-4561-a999-607610276ebb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_670c584d-ad42-4561-a999-607610276ebb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_670c584d-ad42-4561-a999-607610276ebb.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Wed, 15 Nov 2017 03:39:51 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: f561365c35dd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 8907&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:52 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;826d2159e95cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 01:39:01 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-gifting/country-road-gifting-mega-menu-gift-cards.jpg"
+    path="/images/assetimages/cr-gifting/country-road-gifting-mega-menu-gift-cards.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/94bb1001-d971-4c54-af36-e7b1c76a426b.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="e8fb1200-0919-4322-a36e-511b6ce374ff" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e8fb1200-0919-4322-a36e-511b6ce374ff</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e8fb1200-0919-4322-a36e-511b6ce374ff.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 14 Nov 2017 01:39:01 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 826d2159e95cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 6127&#xd;
+cache-control: max-age=604773&#xd;
+expires: Thu, 23 Nov 2017 12:50:25 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:52 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

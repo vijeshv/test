@@ -1,0 +1,142 @@
+<http-page executeResourcesDynamically="false"
+    name="/cm/aol,index,pubmatic,n,taboola/out"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/cb64a7f3-0206-49cb-966c-8142d9a051b0.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="cb64a7f3-0206-49cb-966c-8142d9a051b0">
+    <embedded-action>ff040641-9a6b-4d64-ba4f-b6b4416c3a71</embedded-action>
+    <embedded-action>0af8fd53-c627-4604-a6fd-71787f44a366</embedded-action>
+    <embedded-action>e75cf111-02e8-4929-87bc-93ff72c9cd21</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_56c2a4a3-af3b-4745-8fc9-de7763fd073f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/aol,index,pubmatic,n,taboola/out"
+    path="/cm/aol,index,pubmatic,n,taboola/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/cb64a7f3-0206-49cb-966c-8142d9a051b0.zip"
+    recordedResponseCode="302" responseSize="139"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="ff040641-9a6b-4d64-ba4f-b6b4416c3a71" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ff040641-9a6b-4d64-ba4f-b6b4416c3a71</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ff040641-9a6b-4d64-ba4f-b6b4416c3a71.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:50:45 GMT&#xd;
+Location: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=105&amp;external_user_id=Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA&amp;expiration=1542372645&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:50:44 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 139&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=iso-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rum" path="/rum" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/cb64a7f3-0206-49cb-966c-8142d9a051b0.zip"
+    recordedResponseCode="302"
+    refererUid="ff040641-9a6b-4d64-ba4f-b6b4416c3a71" responseSize="333"
+    serverUid="dsum-sec.casalemedia.com" slaProfileEnabled="false"
+    uid="0af8fd53-c627-4604-a6fd-71787f44a366" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0af8fd53-c627-4604-a6fd-71787f44a366.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0af8fd53-c627-4604-a6fd-71787f44a366.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cm_dsp_id"
+        recordRawValue="105" separator="=" value="105" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="external_user_id"
+        recordRawValue="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA"
+        separator="="
+        value="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expiration"
+        recordRawValue="1542372645" separator="=" value="1542372645" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="dsum-sec.casalemedia.com"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Server: Apache&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"&#xd;
+Location: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=105&amp;external_user_id=Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA&amp;expiration=1542372645&amp;C=1&#xd;
+Content-Length: 333&#xd;
+Content-Type: text/html; charset=iso-8859-1&#xd;
+Expires: Thu, 16 Nov 2017 12:50:47 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Date: Thu, 16 Nov 2017 12:50:47 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: CMID=Wg2Jp2c3cI0AAEmRKPgAAADB;domain=casalemedia.com;path=/;expires=Fri, 16 Nov 2018 12:50:47 GMT&#xd;
+Set-Cookie: CMPS=902;domain=casalemedia.com;path=/;expires=Wed, 14 Feb 2018 12:50:47 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rum" path="/rum" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/cb64a7f3-0206-49cb-966c-8142d9a051b0.zip"
+    recordedResponseCode="200"
+    refererUid="0af8fd53-c627-4604-a6fd-71787f44a366" responseSize="0"
+    serverUid="dsum-sec.casalemedia.com" slaProfileEnabled="false"
+    uid="e75cf111-02e8-4929-87bc-93ff72c9cd21" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e75cf111-02e8-4929-87bc-93ff72c9cd21.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e75cf111-02e8-4929-87bc-93ff72c9cd21.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cm_dsp_id"
+        recordRawValue="105" separator="=" value="105" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="external_user_id"
+        recordRawValue="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA"
+        separator="="
+        value="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expiration"
+        recordRawValue="1542372645" separator="=" value="1542372645" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="C"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="CMID=Wg2Jp2c3cI0AAEmRKPgAAADB; CMPS=902"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="dsum-sec.casalemedia.com"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"&#xd;
+Content-Type: image/gif&#xd;
+Expires: Thu, 16 Nov 2017 12:50:47 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Date: Thu, 16 Nov 2017 12:50:47 GMT&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: CMID=Wg2Jp2c3cI0AAEmRKPgAAADB;domain=casalemedia.com;path=/;expires=Fri, 16 Nov 2018 12:50:47 GMT&#xd;
+Set-Cookie: CMPS=902;domain=casalemedia.com;path=/;expires=Wed, 14 Feb 2018 12:50:47 GMT&#xd;
+Set-Cookie: CMPRO=902;domain=casalemedia.com;path=/;expires=Wed, 14 Feb 2018 12:50:47 GMT&#xd;
+Set-Cookie: CMST=Wg2Jp1oNiacA;domain=casalemedia.com;path=/;expires=Fri, 17 Nov 2017 12:50:47 GMT&#xd;
+Set-Cookie: CMDD=;domain=casalemedia.com;path=/;expires=Fri, 17 Nov 2017 12:50:47 GMT&#xd;
+Set-Cookie: CMRUM3=695a0d89a72760Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA;domain=casalemedia.com;path=/;expires=Fri, 16 Nov 2018 12:50:47 GMT&#xd;
+Set-Cookie: CMSC=Wg2Jpw**;domain=casalemedia.com;path=/;</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

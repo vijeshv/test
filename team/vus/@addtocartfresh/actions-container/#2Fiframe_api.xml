@@ -1,0 +1,40 @@
+<http-page executeResourcesDynamically="false" name="/iframe_api"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/6b7ce51b-df66-4e72-97f2-6a66977d6fdd.zip"
+    slaProfileEnabled="false" thinkTime="2414"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6b7ce51b-df66-4e72-97f2-6a66977d6fdd">
+    <embedded-action>3f343eb4-d915-470d-99ab-a03d6c3936d8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2785b717-255d-4fc5-8d92-98db82e1bc90.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/iframe_api" path="/iframe_api" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/6b7ce51b-df66-4e72-97f2-6a66977d6fdd.zip"
+    recordedResponseCode="200" responseSize="740"
+    serverUid="www.youtube.com" slaProfileEnabled="false"
+    uid="3f343eb4-d915-470d-99ab-a03d6c3936d8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3f343eb4-d915-470d-99ab-a03d6c3936d8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3f343eb4-d915-470d-99ab-a03d6c3936d8.txt</requestContentFileDescription>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/?popupwsid=1"/>
+    <header name="accept-language" value="en"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-content-type-options: nosniff&#xd;
+content-length: 740&#xd;
+x-xss-protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube&#xd;
+expires: Tue, 27 Apr 1971 19:44:06 EST&#xd;
+content-type: application/javascript&#xd;
+cache-control: no-cache&#xd;
+date: Thu, 16 Nov 2017 12:50:17 GMT&#xd;
+server: YouTube Frontend Proxy&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,80 @@
+<http-page executeResourcesDynamically="false"
+    name="//Checkout/Plugin2_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/e4a12134-bfc3-45cb-ab20-1401c43e270d.zip"
+    slaProfileEnabled="false" thinkTime="117"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e4a12134-bfc3-45cb-ab20-1401c43e270d">
+    <embedded-action>9317f0d3-2058-44b2-85e2-57ff470e6345</embedded-action>
+    <embedded-action>02247101-678c-45b1-9d24-d37e2827d7e1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2647f499-a913-4256-b0b3-af2b07cab223.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="//Checkout/Plugin2" path="//Checkout/Plugin2"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/e4a12134-bfc3-45cb-ab20-1401c43e270d.zip"
+    recordedResponseCode="200" responseSize="241007"
+    serverUid="international.countryroad.com" slaProfileEnabled="false"
+    uid="9317f0d3-2058-44b2-85e2-57ff470e6345" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9317f0d3-2058-44b2-85e2-57ff470e6345</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9317f0d3-2058-44b2-85e2-57ff470e6345.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="49F516A3-0ECD-4ACA-A44F-6579ABF92FBE"
+        separator="=" value="49F516A3-0ECD-4ACA-A44F-6579ABF92FBE" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lv"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="cookie" value="_gat_UA-103078636-1=1, _gat_UA-3785867-7=1, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyPendingLogEvents=%5B%5D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="dnt" value="1"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:50:38 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/log/event" path="/log/event" postType="4"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/e4a12134-bfc3-45cb-ab20-1401c43e270d.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="logx.optimizely.com" slaProfileEnabled="false"
+    uid="02247101-678c-45b1-9d24-d37e2827d7e1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_02247101-678c-45b1-9d24-d37e2827d7e1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_02247101-678c-45b1-9d24-d37e2827d7e1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="logx.optimizely.com"/>
+    <header name="Origin" value="https://www.countryroad.com"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Allow-Origin: https://www.countryroad.com&#xd;
+Access-Control-Expose-Headers: X-Results-Data-Source&#xd;
+Content-Type: text/plain&#xd;
+Date: Thu, 16 Nov 2017 12:50:38 GMT&#xd;
+X-Request-Id: 951d7f56-914f-4431-be54-0d1db4756a88&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"eventId":"710c6d64-638d-489a-a674-a33e1312c766","anonymizeIP":false,"timestamp":1510836643627,"revision":"3438","clientEngine":"js","clientVersion":"0.77.1","projectId":"312195565","accountId":"225165521","activationId":"1510836643612","sessionId":"AUTO","visitorId":"oeu1510836620552r0.7293605928257014","eventFeatures":[],"eventMetrics":[],"relatedEvents":[],"layerStates":[],"userFeatures":[{"id":null,"type":"first_session","name":"","shouldIndex":true,"value":true},{"id":null,"type":"browserId","name":"","shouldIndex":true,"value":"gc"},{"id":null,"type":"device","name":"","shouldIndex":true,"value":"desktop"},{"id":null,"type":"source_type","name":"","shouldIndex":true,"value":"direct"},{"id":null,"type":"currentTimestamp","name":"","shouldIndex":true,"value":1510836643627},{"id":null,"type":"offset","name":"","shouldIndex":true,"value":-330}],"activeViews":[],"isGlobalHoldback":false,"eventType":"client_activation","eventName":"client_activation"}]]></textPostContent>
+</http-action>

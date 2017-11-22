@@ -1,0 +1,101 @@
+<http-page executeResourcesDynamically="false"
+    name="/pagead/viewthroughconversion/981113113/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/57148eae-462d-44c3-9f1e-8d4005caa2d8.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="57148eae-462d-44c3-9f1e-8d4005caa2d8">
+    <embedded-action>fa55b6c4-e7d0-42e3-8176-c3cc423c43fe</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_99e825fa-cd86-4d08-bb22-08dd2c53e799.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/viewthroughconversion/981113113/"
+    path="/pagead/viewthroughconversion/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/57148eae-462d-44c3-9f1e-8d4005caa2d8.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="googleads.g.doubleclick.net" slaProfileEnabled="false"
+    uid="fa55b6c4-e7d0-42e3-8176-c3cc423c43fe" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fa55b6c4-e7d0-42e3-8176-c3cc423c43fe</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa55b6c4-e7d0-42e3-8176-c3cc423c43fe.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836632913" separator="="
+        value="1510836632913" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510836632913" separator="="
+        value="1510836632913" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="eid"
+        recordRawValue="376635471" separator="=" value="376635471" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman"
+        separator="=" value="https://www.countryroad.com/shop/man" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2F%3Fpopupwsid%3D1"
+        separator="=" value="https://www.countryroad.com/?popupwsid=1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Men%27s%20Clothes%20%26%20Fashion%20%7C%20Country%20Road%20Online"
+        separator="="
+        value="Men's Clothes &amp; Fashion | Country Road Online" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rfmt"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept-language" value="en"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="accept" value="*/*"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:50:24 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+location: https://www.google.com/ads/user-lists/981113113/?random=1510836632913&amp;cv=8&amp;fst=1510833600000&amp;num=1&amp;label=1NwWCO-D8QUQmbLq0wM&amp;guid=ON&amp;eid=376635471&amp;u_h=720&amp;u_w=1280&amp;u_ah=683&amp;u_aw=1280&amp;u_cd=24&amp;u_his=2&amp;u_tz=330&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;frm=0&amp;url=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman&amp;ref=https%3A%2F%2Fwww.countryroad.com%2F%3Fpopupwsid%3D1&amp;tiba=Men%27s%20Clothes%20%26%20Fashion%20%7C%20Country%20Road%20Online&amp;fmt=4&amp;cdct=2&amp;is_vtc=1&amp;random=3129314539&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 1; mode=block&#xd;
+set-cookie: test_cookie=CheckForPermission; expires=Thu, 16-Nov-2017 13:05:24 GMT; path=/; domain=.doubleclick.net&#xd;
+alt-svc: hq="googleads.g.doubleclick.net:443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic="googleads.g.doubleclick.net:443"; ma=2592000; v="41, 39, 38, 37, 35", hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

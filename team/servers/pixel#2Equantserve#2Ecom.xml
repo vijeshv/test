@@ -1,0 +1,4 @@
+<http-server hostname="pixel.quantserve.com" port="443" ssl="true"
+    uid="pixel.quantserve.com" urlrewriting-argument-name="r"
+    urlrewriting-enabled="true" urlrewriting-path-extension="true"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

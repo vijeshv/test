@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    name="/bundles/standard_app_js" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/68fa2d05-477b-4228-bcc1-d2aed5f4e779.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="68fa2d05-477b-4228-bcc1-d2aed5f4e779">
+    <embedded-action>2f0abd72-17da-432e-be47-ca876af509a5</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_96cc2f7e-a9e9-48ff-bdef-3dd91945a7af.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bundles/standard_app_js"
+    path="/bundles/standard_app_js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/68fa2d05-477b-4228-bcc1-d2aed5f4e779.zip"
+    recordedResponseCode="200"
+    refererUid="7747c88f-ff7f-44a4-a9d9-2361d342d575"
+    responseSize="1240746" serverUid="international.countryroad.com"
+    slaProfileEnabled="false" uid="2f0abd72-17da-432e-be47-ca876af509a5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2f0abd72-17da-432e-be47-ca876af509a5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2f0abd72-17da-432e-be47-ca876af509a5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="JG0jsWh-X391ns5bSl8bIUCMsKSv1S7Q9yDraEBGsX01"
+        separator="="
+        value="JG0jsWh-X391ns5bSl8bIUCMsKSv1S7Q9yDraEBGsX01" valueMode="USE_VALUE"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <header name="cookie" value="__qca=P0-1008301496-1510836647198, _gat_UA-3785867-7=1, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, _gat_UA-103078636-1=1, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, optimizelyPendingLogEvents=%5B%5D, ASP.NET_SessionId=nuhc5rksnjiymwm2d5ejwp4m, esw.SessionId=nuhc5rksnjiymwm2d5ejwp4m"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public&#xd;
+content-type: text/javascript; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+expires: Fri, 16 Nov 2018 12:51:43 GMT&#xd;
+last-modified: Thu, 16 Nov 2017 12:51:43 GMT&#xd;
+vary: User-Agent, Accept-Encoding&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:43 GMT</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="4"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

@@ -1,0 +1,15 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="5" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="37290917-1e32-439e-88f1-c9e145294c08" weightsEnabled="false">
+    <weighted-embedded-action uid="bc9e1914-6fdd-42bc-a746-d723797a9fdd"/>
+    <weighted-embedded-action uid="f1620642-f4a9-47e2-9644-1b06fcd0eeec"/>
+    <weighted-embedded-action uid="c4e53525-c7c7-4e94-8020-78a3afdca24e"/>
+    <weighted-embedded-action uid="ed2a0d72-f912-41bb-9b4c-632580b5fc98"/>
+    <weighted-embedded-action uid="234cb997-ef29-4e78-8421-ea6a552a2e3c"/>
+    <weighted-embedded-action uid="148cadff-d403-42e3-a8ae-07a0b4921e3f"/>
+    <weighted-embedded-action uid="5667b7d0-7e72-483c-8c05-1cda642c816e"/>
+    <weighted-embedded-action uid="defaa4f6-040e-4099-9d3d-999c2fac499c"/>
+    <weighted-embedded-action uid="f3712dc0-cb2a-4315-bb3d-1d73bdc9414d"/>
+    <weighted-embedded-action uid="b3488b27-a97f-429a-940d-0ddfe12da8f9"/>
+</basic-logical-action-container>

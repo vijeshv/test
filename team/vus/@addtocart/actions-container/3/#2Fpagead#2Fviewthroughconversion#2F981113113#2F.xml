@@ -1,0 +1,334 @@
+<http-page executeResourcesDynamically="false"
+    name="/pagead/viewthroughconversion/981113113/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6bc51c29-1ad1-4472-b8e0-80315c9bee9d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6bc51c29-1ad1-4472-b8e0-80315c9bee9d">
+    <embedded-action>b0f91fec-eb1d-49c3-b4eb-7a22aa2e606e</embedded-action>
+    <embedded-action>f1def4dc-80eb-418b-ad95-2e40e6667aa5</embedded-action>
+    <embedded-action>f65b7676-e746-470a-840e-3ee3eed9b6f9</embedded-action>
+    <embedded-action>daadf362-bac6-4861-b3b3-8e7a353e4119</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/viewthroughconversion/981113113/"
+    path="/pagead/viewthroughconversion/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6bc51c29-1ad1-4472-b8e0-80315c9bee9d.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="googleads.g.doubleclick.net" slaProfileEnabled="false"
+    uid="b0f91fec-eb1d-49c3-b4eb-7a22aa2e606e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b0f91fec-eb1d-49c3-b4eb-7a22aa2e606e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b0f91fec-eb1d-49c3-b4eb-7a22aa2e606e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836669139" separator="="
+        value="1510836669139" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510836669139" separator="="
+        value="1510836669139" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="eid"
+        recordRawValue="376635470" separator="=" value="376635470" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Linen%20Shirt%20%7C%20Cool%20Linen"
+        separator="=" value="Linen Shirt | Cool Linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rfmt"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="IDE=AHWqTUnsfzmWR7sG7M0GUytKQy_pA1fGP-OoffPFJEYb0-SIhsh2A6aM8FyftFJi"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:01 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+location: https://www.google.com/ads/user-lists/981113113/?random=1510836669139&amp;cv=8&amp;fst=1510833600000&amp;num=1&amp;label=1NwWCO-D8QUQmbLq0wM&amp;guid=ON&amp;eid=376635470&amp;u_h=720&amp;u_w=1280&amp;u_ah=683&amp;u_aw=1280&amp;u_cd=24&amp;u_his=4&amp;u_tz=330&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;frm=0&amp;url=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html&amp;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen&amp;tiba=Linen%20Shirt%20%7C%20Cool%20Linen&amp;fmt=4&amp;cdct=2&amp;is_vtc=1&amp;random=4181979132&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq="googleads.g.doubleclick.net:443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic="googleads.g.doubleclick.net:443"; ma=2592000; v="41, 39, 38, 37, 35", hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ads/user-lists/981113113/"
+    path="/ads/user-lists/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6bc51c29-1ad1-4472-b8e0-80315c9bee9d.zip"
+    recordedResponseCode="302"
+    refererUid="b0f91fec-eb1d-49c3-b4eb-7a22aa2e606e" responseSize="825"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="f1def4dc-80eb-418b-ad95-2e40e6667aa5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f1def4dc-80eb-418b-ad95-2e40e6667aa5.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f1def4dc-80eb-418b-ad95-2e40e6667aa5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836669139" separator="="
+        value="1510836669139" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510833600000" separator="="
+        value="1510833600000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="eid"
+        recordRawValue="376635470" separator="=" value="376635470" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Linen%20Shirt%20%7C%20Cool%20Linen"
+        separator="=" value="Linen Shirt | Cool Linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cdct"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="is_vtc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="4181979132" separator="=" value="4181979132" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+location: https://www.google.co.in/ads/user-lists/981113113/?random=1510836669139&amp;cv=8&amp;fst=1510833600000&amp;num=1&amp;label=1NwWCO-D8QUQmbLq0wM&amp;guid=ON&amp;eid=376635470&amp;u_h=720&amp;u_w=1280&amp;u_ah=683&amp;u_aw=1280&amp;u_cd=24&amp;u_his=4&amp;u_tz=330&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;frm=0&amp;url=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html&amp;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen&amp;tiba=Linen%20Shirt%20%7C%20Cool%20Linen&amp;fmt=4&amp;cdct=2&amp;is_vtc=1&amp;random=4181979132&amp;ipr=y&amp;ulfeg=n&#xd;
+cache-control: private, max-age=43200&#xd;
+date: Thu, 16 Nov 2017 12:51:01 GMT&#xd;
+expires: Thu, 16 Nov 2017 12:51:01 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+server: adclick_server&#xd;
+content-length: 825&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ads/user-lists/981113113/"
+    path="/ads/user-lists/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6bc51c29-1ad1-4472-b8e0-80315c9bee9d.zip"
+    recordedResponseCode="200"
+    refererUid="f1def4dc-80eb-418b-ad95-2e40e6667aa5" responseSize="43"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="f65b7676-e746-470a-840e-3ee3eed9b6f9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f65b7676-e746-470a-840e-3ee3eed9b6f9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f65b7676-e746-470a-840e-3ee3eed9b6f9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836669139" separator="="
+        value="1510836669139" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510833600000" separator="="
+        value="1510833600000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="eid"
+        recordRawValue="376635470" separator="=" value="376635470" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Linen%20Shirt%20%7C%20Cool%20Linen"
+        separator="=" value="Linen Shirt | Cool Linen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cdct"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="is_vtc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="4181979132" separator="=" value="4181979132" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ipr"
+        recordRawValue="y" separator="=" value="y" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ulfeg"
+        recordRawValue="n" separator="=" value="n" valueMode="USE_VALUE"/>
+    <header name="accept" value="*/*"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+date: Thu, 16 Nov 2017 12:51:01 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: gzip&#xd;
+server: adclick_server&#xd;
+content-length: 63&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 14 Aug 2017 00:34:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/api/www.countryroad.com.au/product_20170814003443575.css"
+    path="/api/www.countryroad.com.au/product_20170814003443575.css"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6bc51c29-1ad1-4472-b8e0-80315c9bee9d.zip"
+    recordedResponseCode="200" responseSize="33780"
+    serverUid="api.taggd.co" slaProfileEnabled="false"
+    uid="daadf362-bac6-4861-b3b3-8e7a353e4119" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_daadf362-bac6-4861-b3b3-8e7a353e4119.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_daadf362-bac6-4861-b3b3-8e7a353e4119.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="api.taggd.co"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/css&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Date: Wed, 16 Aug 2017 05:33:28 GMT&#xd;
+Last-Modified: Mon, 14 Aug 2017 00:34:57 GMT&#xd;
+Cache-Control: max-age=900,s-maxage=86400&#xd;
+Server: AmazonS3&#xd;
+Content-Encoding: gzip&#xd;
+Vary: Accept-Encoding&#xd;
+Age: 15611&#xd;
+X-Cache: Hit from cloudfront&#xd;
+Via: 1.1 fb6979ee31fe1f371946af690fb13d96.cloudfront.net (CloudFront)&#xd;
+X-Amz-Cf-Id: _jBqs1M6lR_K7NUjqaeLFr4g8Lelp3dQI0Y3TCYIh07lc8MlOJdiJA==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

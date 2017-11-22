@@ -1,0 +1,62 @@
+<http-page executeResourcesDynamically="false" name="/connect/ping"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/f3712dc0-cb2a-4315-bb3d-1d73bdc9414d.zip"
+    slaProfileEnabled="false" thinkTime="16"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f3712dc0-cb2a-4315-bb3d-1d73bdc9414d">
+    <embedded-action>000682d0-4e17-438a-986d-b1648a9a3aba</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_7494ce61-2b4d-4799-afdf-93278a17f5de.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/connect/ping" path="/connect/ping" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/f3712dc0-cb2a-4315-bb3d-1d73bdc9414d.zip"
+    recordedResponseCode="200" responseSize="190"
+    serverUid="www.facebook.com" slaProfileEnabled="false"
+    uid="000682d0-4e17-438a-986d-b1648a9a3aba" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_000682d0-4e17-438a-986d-b1648a9a3aba.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_000682d0-4e17-438a-986d-b1648a9a3aba.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="client_id"
+        recordRawValue="183267598389420" separator="="
+        value="183267598389420" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="domain"
+        recordRawValue="www.countryroad.com" separator="="
+        value="www.countryroad.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="origin"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="redirect_uri"
+        recordRawValue="https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df1b45223e966628%26domain%3Dwww.countryroad.com%26origin%3Dhttps%253A%252F%252Fwww.countryroad.com%252Ff18863b419023e%26relation%3Dparent"
+        separator="="
+        value="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#cb=f1b45223e966628&amp;domain=www.countryroad.com&amp;origin=https%3A%2F%2Fwww.countryroad.com%2Ff18863b419023e&amp;relation=parent" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="response_type"
+        recordRawValue="token%2Csigned_request%2Ccode" separator="="
+        value="token,signed_request,code" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sdk"
+        recordRawValue="joey" separator="=" value="joey" valueMode="USE_VALUE"/>
+    <header name="accept" value="text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, image/apng, */*;q=0.8"/>
+    <header name="cookie" value="fr=0buoRVdKDjnnllLdJ..BaDYmR...1.0.BaDYmR."/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-xss-protection: 0&#xd;
+pragma: no-cache&#xd;
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;&#xd;
+cache-control: private, no-cache, no-store, must-revalidate&#xd;
+expect-ct: max-age=10, report-uri="http://reports.fb.com/expectct/"&#xd;
+strict-transport-security: max-age=15552000; preload&#xd;
+x-content-type-options: nosniff&#xd;
+expires: Sat, 01 Jan 2000 00:00:00 GMT&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: br&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-fb-debug: U/Gj5oSERCUj4oGJc8GXujLHg3nF03fBuH0jgXVxJzgJvNT3omN4SUMo+7iziCnHC8QD7fq2WcMFnl94u6ALsA==&#xd;
+date: Thu, 16 Nov 2017 12:51:32 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

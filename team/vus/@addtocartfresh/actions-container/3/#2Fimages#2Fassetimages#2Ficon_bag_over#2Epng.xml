@@ -1,0 +1,45 @@
+<http-page executeResourcesDynamically="false"
+    name="/images/assetimages/icon_bag_over.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/628e1844-90cf-4af4-a9d2-5e7de8686812.zip"
+    slaProfileEnabled="false" thinkTime="1271"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="628e1844-90cf-4af4-a9d2-5e7de8686812">
+    <embedded-action>3d42e1ea-0eac-4c52-a97a-0ca1bb62572f</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5d530772-0528-4d16-abbf-52acc68aea94.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;6295a89c81a0cf1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 15 Jul 2014 23:07:55 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/assetimages/icon_bag_over.png"
+    path="/images/assetimages/icon_bag_over.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/628e1844-90cf-4af4-a9d2-5e7de8686812.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="3d42e1ea-0eac-4c52-a97a-0ca1bb62572f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3d42e1ea-0eac-4c52-a97a-0ca1bb62572f.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3d42e1ea-0eac-4c52-a97a-0ca1bb62572f.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.countryroad.com/assets/cr_styles_13.css"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, esw.SessionId=goljeh2pjm3ee1sxgpxp3e2o, __ar_v4=T4WP5WCK3JGFXL72UPGLGT%3A20171116%3A3%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A3%7CXX4DJP7KJNEENMDB65WE7H%3A20171116%3A3, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, iSAMS=5VFxw8ejkKzwffIw77/NfBxQQr4C8y+1ZT8LlzoRPB/xsjDj/C5RiIl8kRLO4UUmSxZaIoNREKwLGDxP2ODcug==, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/png&#xd;
+last-modified: Tue, 15 Jul 2014 23:07:55 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 6295a89c81a0cf1:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 211&#xd;
+cache-control: max-age=604790&#xd;
+expires: Thu, 23 Nov 2017 12:50:44 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:54 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

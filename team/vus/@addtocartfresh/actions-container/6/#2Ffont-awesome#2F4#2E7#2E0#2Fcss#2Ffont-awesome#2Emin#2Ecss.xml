@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    name="/font-awesome/4.7.0/css/font-awesome.min.css"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/54d24cc2-728c-4297-8156-9d7fb32ef2df.zip"
+    slaProfileEnabled="false" thinkTime="1199"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="54d24cc2-728c-4297-8156-9d7fb32ef2df">
+    <embedded-action>e2da547b-9e3f-49b1-aab9-b46d6e3087ee</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_323f35c8-685d-408d-8e9e-0d14e3fb2372.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/css"
+    eTag="W/&quot;269550530cc127b6aa5a35925a7de6ce&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 25 Oct 2016 15:49:46 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/font-awesome/4.7.0/css/font-awesome.min.css"
+    path="/font-awesome/4.7.0/css/font-awesome.min.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/54d24cc2-728c-4297-8156-9d7fb32ef2df.zip"
+    recordedResponseCode="200" responseSize="31000"
+    serverUid="maxcdn.bootstrapcdn.com" slaProfileEnabled="false"
+    uid="e2da547b-9e3f-49b1-aab9-b46d6e3087ee" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e2da547b-9e3f-49b1-aab9-b46d6e3087ee.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e2da547b-9e3f-49b1-aab9-b46d6e3087ee.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="maxcdn.bootstrapcdn.com"/>
+    <header name="Referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 16 Nov 2017 12:51:44 GMT&#xd;
+Content-Type: text/css&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Tue, 25 Oct 2016 15:49:46 GMT&#xd;
+ETag: W/"269550530cc127b6aa5a35925a7de6ce"&#xd;
+Server: NetDNA-cache/2.2&#xd;
+Expires: Sun, 11 Nov 2018 12:51:44 GMT&#xd;
+Cache-Control: max-age=31104000&#xd;
+Vary: Accept-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+X-Hello-Human: Say hello back! @getBootstrapCDN on Twitter&#xd;
+X-Cache: HIT&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

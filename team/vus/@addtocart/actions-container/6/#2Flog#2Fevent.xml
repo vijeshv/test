@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false" name="/log/event"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/2c2f2d16-7f86-4bd1-b29a-d39e21bfd6ac.zip"
+    slaProfileEnabled="false" thinkTime="1413"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2c2f2d16-7f86-4bd1-b29a-d39e21bfd6ac">
+    <embedded-action>0b2ea4ec-28e8-4cb2-b687-6f5efe4eedd4</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/log/event" path="/log/event" postType="4"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/2c2f2d16-7f86-4bd1-b29a-d39e21bfd6ac.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="logx.optimizely.com" slaProfileEnabled="false"
+    uid="0b2ea4ec-28e8-4cb2-b687-6f5efe4eedd4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0b2ea4ec-28e8-4cb2-b687-6f5efe4eedd4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0b2ea4ec-28e8-4cb2-b687-6f5efe4eedd4.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="logx.optimizely.com"/>
+    <header name="Origin" value="https://www.countryroad.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Allow-Origin: https://www.countryroad.com&#xd;
+Access-Control-Expose-Headers: X-Results-Data-Source&#xd;
+Content-Type: text/plain&#xd;
+Date: Thu, 16 Nov 2017 12:51:41 GMT&#xd;
+X-Request-Id: 9dba614d-fe86-4f28-bed9-b6384ce91e14&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"eventId":"c8d28112-a840-409a-b37f-5ed080c7ba97","anonymizeIP":false,"timestamp":1510836707483,"revision":"3438","clientEngine":"js","clientVersion":"0.77.1","projectId":"312195565","accountId":"225165521","activationId":"1510836697875","sessionId":"AUTO","visitorId":"oeu1510836620552r0.7293605928257014","eventFeatures":[{"id":null,"shouldIndex":true,"type":"event","name":"selector","value":".buttons input,.page_content > form:nth-of-type(1) > input"},{"id":null,"shouldIndex":true,"type":"event","name":"view_id","value":"6818550520"},{"id":null,"shouldIndex":true,"type":"tags","name":"n_cart_items","value":1}],"eventMetrics":[],"relatedEvents":[{"eventId":"d27396a6-0394-4360-9908-f73565490ee7","relationship":"view_activation"}],"layerStates":[],"userFeatures":[{"id":null,"type":"first_session","name":"","shouldIndex":true,"value":true},{"id":null,"type":"browserId","name":"","shouldIndex":true,"value":"gc"},{"id":null,"type":"device","name":"","shouldIndex":true,"value":"desktop"},{"id":null,"type":"source_type","name":"","shouldIndex":true,"value":"direct"},{"id":null,"type":"currentTimestamp","name":"","shouldIndex":true,"value":1510836697897},{"id":null,"type":"offset","name":"","shouldIndex":true,"value":-330}],"activeViews":[{"viewId":"6818550520","activatedTimestamp":1510836697903,"viewFeatures":[{"id":null,"shouldIndex":true,"type":"view_category","name":"","value":"cart"},{"id":null,"shouldIndex":true,"type":"view_tag","name":"n_cart_items","value":1}]}],"isGlobalHoldback":false,"eventEntityId":"6840611190","eventType":"other","eventName":"clicked_checkout_now"}]]></textPostContent>
+</http-action>

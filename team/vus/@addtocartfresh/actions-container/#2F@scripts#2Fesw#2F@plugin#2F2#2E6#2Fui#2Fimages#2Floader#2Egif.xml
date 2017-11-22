@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    name="/Scripts/esw/Plugin/2.6/ui/images/loader.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/5ec51cdc-0074-41d4-92b8-595eaa26ae95.zip"
+    slaProfileEnabled="false" thinkTime="1319"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5ec51cdc-0074-41d4-92b8-595eaa26ae95">
+    <embedded-action>7ef63546-7741-422d-922d-cdd7a0157560</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_af4946b3-7684-4afd-b463-3319028a92ae.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;535b57b6a59d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 09 Nov 2017 14:50:11 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/Scripts/esw/Plugin/2.6/ui/images/loader.gif"
+    path="/Scripts/esw/Plugin/2.6/ui/images/loader.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/5ec51cdc-0074-41d4-92b8-595eaa26ae95.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="international.countryroad.com" slaProfileEnabled="false"
+    uid="7ef63546-7741-422d-922d-cdd7a0157560" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7ef63546-7741-422d-922d-cdd7a0157560.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7ef63546-7741-422d-922d-cdd7a0157560.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://www.countryroad.com/?popupwsid=1"/>
+    <header name="dnt" value="1"/>
+    <header name="cookie" value="optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyPendingLogEvents=%5B%5D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/gif&#xd;
+last-modified: Thu, 09 Nov 2017 14:50:11 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 535b57b6a59d31:0&#xd;
+server: Microsoft-IIS/10.0&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:50:14 GMT&#xd;
+content-length: 2608</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

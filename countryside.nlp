@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=countryside
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.2.0
+project.id=165f022d-ebb8-425e-bfb0-aa850886e623
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=vijeshv/test.git

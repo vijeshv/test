@@ -1,0 +1,44 @@
+<http-page executeResourcesDynamically="false"
+    name="/modules-33471959813a5b6daf555d491fc2c31d.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/5f84895b-7d22-4602-8ed6-f7907e92bca6.zip"
+    slaProfileEnabled="false" thinkTime="1240"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5f84895b-7d22-4602-8ed6-f7907e92bca6">
+    <embedded-action>4c1d1077-5ccd-4f1f-b9cb-b27967e41adb</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_0e45368c-322a-4481-b7f2-36be1f37039f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="W/&quot;33471959813a5b6daf555d491fc2c31d&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 13 Nov 2017 12:22:19 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/modules-33471959813a5b6daf555d491fc2c31d.js"
+    path="/modules-33471959813a5b6daf555d491fc2c31d.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/5f84895b-7d22-4602-8ed6-f7907e92bca6.zip"
+    recordedResponseCode="200" responseSize="349173"
+    serverUid="script.hotjar.com" slaProfileEnabled="false"
+    uid="4c1d1077-5ccd-4f1f-b9cb-b27967e41adb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4c1d1077-5ccd-4f1f-b9cb-b27967e41adb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4c1d1077-5ccd-4f1f-b9cb-b27967e41adb.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="*/*"/>
+    <header name="referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 16 Nov 2017 12:51:52 GMT&#xd;
+content-type: application/javascript&#xd;
+x-amz-id-2: FAXnHquA2QjVeGfzcX52j9yuUm3Upfpz9ML0AKUnICLxUpRt5sLN6ajivI/442dVe9UkFrvfkr8=&#xd;
+x-amz-request-id: 8BE735F824494073&#xd;
+last-modified: Mon, 13 Nov 2017 12:22:19 GMT&#xd;
+etag: W/"33471959813a5b6daf555d491fc2c31d"&#xd;
+cache-control: max-age=31536000&#xd;
+server: NetDNA-cache/2.2&#xd;
+x-cache: HIT&#xd;
+content-encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

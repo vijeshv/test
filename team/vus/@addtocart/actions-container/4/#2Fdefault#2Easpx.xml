@@ -1,0 +1,275 @@
+<http-page executeResourcesDynamically="false" name="/default.aspx"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/339feb95-e7f7-4b21-9c51-85fb04be9763.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="339feb95-e7f7-4b21-9c51-85fb04be9763">
+    <embedded-action>41e9ee49-fcd3-4832-a74e-e6ee99b61ee3</embedded-action>
+    <embedded-action>5fefa574-c048-4ff2-8e08-6c9c023f97f1</embedded-action>
+    <embedded-action>67cc9667-5e76-4b68-ba84-a3602d8b1740</embedded-action>
+    <embedded-action>ec1a4922-704b-4f61-86c0-1e4ac861cc62</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_339feb95-e7f7-4b21-9c51-85fb04be9763.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/default.aspx" path="/default.aspx"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/339feb95-e7f7-4b21-9c51-85fb04be9763.zip"
+    recordedResponseCode="200" responseSize="2560"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="41e9ee49-fcd3-4832-a74e-e6ee99b61ee3" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[cm5kPUI0NkZCQkQ2LUYzMDctNEIzMy1BNUZFLUZCRjJEQkIzQ0NCOSZUPTE1MDkwMyZhY3Rpb249YWRkc3BlY2lmeSZwYXJlbnQ9NjY5MjAmY2F0SUQ9MTUwOTAzJnBkSUQ9NjY5MjAmZmtfaWQ9NjAyMTA3MjQmcXM9MSZhZGRwb3B1cD0xJmVtYWlsYWRkcmVzcz0mcHRuSUQ9JmNsSUQ9MTc4NyZzeklEPTQ4JnNpemU9NDgmcXR5PTEmc2VydmVhcz1hamF4]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_41e9ee49-fcd3-4832-a74e-e6ee99b61ee3.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_41e9ee49-fcd3-4832-a74e-e6ee99b61ee3.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="rnd"
+        recordRawValue="B46FBBD6-F307-4B33-A5FE-FBF2DBB3CCB9"
+        separator="=" value="B46FBBD6-F307-4B33-A5FE-FBF2DBB3CCB9" valueMode="USE_EXTRACT">
+        <variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
+            matchNumberAdv="1" matchNumberSimple="1"
+            name="nl_extracted_param"
+            refererUid="57fe88c2-dd77-4bce-b1e2-72a8552d67d3"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']rnd[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']rnd[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="e7453443-b381-4eb0-a2e2-71a092544e8a" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true" name="T"
+        recordRawValue="150903" separator="=" value="150903" valueMode="USE_EXTRACT">
+        <variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
+            matchNumberAdv="1" matchNumberSimple="1"
+            name="nl_extracted_param_1"
+            refererUid="57fe88c2-dd77-4bce-b1e2-72a8552d67d3"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']T[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']T[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="7a7f0a8c-5568-424c-afd1-565f55325cbd" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="addspecify" separator="=" value="addspecify" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="parent"
+        recordRawValue="66920" separator="=" value="66920" valueMode="USE_EXTRACT">
+        <variable-extractor assertionOnNoMatch="true"
+            defaultValue="&lt;NOT FOUND>" displayMode="1"
+            endsWithSimple="" extractFromVarNameAdv=""
+            extractFromVarNameSimple="" extractType="0"
+            extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
+            matchNumberAdv="1" matchNumberSimple="1"
+            name="nl_extracted_param_2"
+            refererUid="57fe88c2-dd77-4bce-b1e2-72a8552d67d3"
+            regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']parent[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']parent[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
+            setDefaultValue="true" startsWithSimple="" template="$1$"
+            templateAdv="$1$" uid="c8769446-3b07-4c0e-99aa-c87314b0fbbb" xpath="">
+            <variable-extractor-group extract="true" occurs="1"
+                pattern="" type="4"/>
+        </variable-extractor>
+    </parameter>
+    <parameter encodeName="true" encodeValue="true" name="catID"
+        recordRawValue="150903" separator="=" value="150903" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pdID"
+        recordRawValue="66920" separator="=" value="66920" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fk_id"
+        recordRawValue="60210724" separator="=" value="60210724" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="addpopup"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="emailaddress"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ptnID"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="clID"
+        recordRawValue="1787" separator="=" value="1787" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="szID"
+        recordRawValue="48" separator="=" value="48" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="size"
+        recordRawValue="48" separator="=" value="48" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qty"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="serveas"
+        recordRawValue="ajax" separator="=" value="ajax" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Z"
+        recordRawValue="c" separator="=" value="c" valueMode="USE_VALUE"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=5PCVeUOJsXCR5oLBzqAqQs1nefUFNnZfA84uNVMnMx5wKCNqNjy/94IXAcG+6dQCvUr2uOoy/NrqjBLkn9jqWw==, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=XX4DJP7KJNEENMDB65WE7H%3A20171116%3A4%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A4%7CT4WP5WCK3JGFXL72UPGLGT%3A20171116%3A4, esw.SessionId=qlzlqcimxfffhg3r1v2b1uow, optimizelyPendingLogEvents=%5B%5D, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627"/>
+    <header name="dnt" value="1"/>
+    <header name="origin" value="https://www.countryroad.com"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="content-type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private&#xd;
+content-type: text/html; charset=utf-8&#xd;
+p3p: CP=NOI&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+date: Thu, 16 Nov 2017 12:51:18 GMT&#xd;
+content-length: 965&#xd;
+set-cookie: iSAMSShopper=FFIAQ/R9BdcGNmoy1w1z+sB5LigOlAdZOgbG8WD3QHiuiNUyhNBNauMpXWe+Jil8bM62IDkM2EqpLGCaNO9pMg==; domain=www.countryroad.com; path=/; secure; HttpOnly, cartCount=1; path=/, loggedIn=False; path=/, countryCode=IX; path=/, SLI=cartCount=1, countryCode=IX, loggedIn=False; domain=www.countryroad.com; path=/, iSAMS=dZuoIf5rrJ3xrpoKpsYGelnHeYupIB3CMRCy0WScEBp4yqZpGPt6GMr3Fzgt4yvnNmJTUol1m70cC855mFvemQ==; domain=www.countryroad.com; path=/; HttpOnly</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;166317ac844cd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 24 Oct 2017 04:58:03 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/ProductImages_Display/thumb/1/66920_338647_193951.jpg"
+    path="/ProductImages_Display/thumb/1/${nl_extracted_param_2}_338647_193951.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/339feb95-e7f7-4b21-9c51-85fb04be9763.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="5fefa574-c048-4ff2-8e08-6c9c023f97f1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5fefa574-c048-4ff2-8e08-6c9c023f97f1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5fefa574-c048-4ff2-8e08-6c9c023f97f1.txt</requestContentFileDescription>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, popup_ch_acquisition=true, esw.LanguageIsoCode=en, eswInternationalUser=true, esw.location=%7B%22country%22%3A%7B%22iso_code%22%3A%22IN%22%7D%7D, esw.currency=INR, eSw.Landing.Played=true, __qca=P0-1008301496-1510836647198, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=XX4DJP7KJNEENMDB65WE7H%3A20171116%3A4%7CSGLHVBDM5RDKLDII6RFYKW%3A20171116%3A4%7CT4WP5WCK3JGFXL72UPGLGT%3A20171116%3A4, esw.SessionId=qlzlqcimxfffhg3r1v2b1uow, optimizelyPendingLogEvents=%5B%5D, iSAMSShopper=FFIAQ/R9BdcGNmoy1w1z+sB5LigOlAdZOgbG8WD3QHiuiNUyhNBNauMpXWe+Jil8bM62IDkM2EqpLGCaNO9pMg==, cartCount=1, loggedIn=False, countryCode=IX, SLI=cartCount=1, countryCode=IX, loggedIn=False, iSAMS=dZuoIf5rrJ3xrpoKpsYGelnHeYupIB3CMRCy0WScEBp4yqZpGPt6GMr3Fzgt4yvnNmJTUol1m70cC855mFvemQ==, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, _gat_UA-3785867-7=1"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 24 Oct 2017 04:58:03 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 166317ac844cd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 4150&#xd;
+cache-control: no-cache&#xd;
+expires: Thu, 16 Nov 2017 12:51:19 GMT&#xd;
+date: Thu, 16 Nov 2017 12:51:19 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;db04c7b378cb2db912c3ba8a5a774ee3&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/c2/6274621/track_cart"
+    path="/c2/6274621/track_cart" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/339feb95-e7f7-4b21-9c51-85fb04be9763.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="nova.collect.igodigital.com" slaProfileEnabled="false"
+    uid="67cc9667-5e76-4b68-ba84-a3602d8b1740" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_67cc9667-5e76-4b68-ba84-a3602d8b1740.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_67cc9667-5e76-4b68-ba84-a3602d8b1740.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="payload"
+        recordRawValue="%7B%22cart%22%3A%5B%7B%22item%22%3A%2260210724%22%2C%22quantity%22%3A%221%22%2C%22price%22%3A%22129.00%22%2C%22unique_id%22%3A%2238234910%22%7D%5D%2C%22url%22%3A%22https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html%22%2C%22user_info%22%3A%7B%22email%22%3A%22%22%7D%7D"
+        separator="="
+        value="{&quot;cart&quot;:[{&quot;item&quot;:&quot;60210724&quot;,&quot;quantity&quot;:&quot;1&quot;,&quot;price&quot;:&quot;129.00&quot;,&quot;unique_id&quot;:&quot;38234910&quot;}],&quot;url&quot;:&quot;https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html&quot;,&quot;user_info&quot;:{&quot;email&quot;:&quot;&quot;}}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="igodigitaltc2=ba542d7a-cacc-11e7-bcb6-22000a3fbae1; igodigitalst_6274621=ba543568-cacc-11e7-bcb6-22000a3fbae1; igodigitalstdomain=6489"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="nova.collect.igodigital.com"/>
+    <header name="Referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private&#xd;
+Content-Disposition: inline&#xd;
+Content-Transfer-Encoding: binary&#xd;
+Content-Type: image/gif&#xd;
+Date: Thu, 16 Nov 2017 12:51:19 GMT&#xd;
+ETag: "db04c7b378cb2db912c3ba8a5a774ee3"&#xd;
+P3P: CP="CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"&#xd;
+Server: Apache&#xd;
+Set-Cookie: igodigitaltc2=ba542d7a-cacc-11e7-bcb6-22000a3fbae1; domain=.igodigital.com; path=/; expires=Tue, 16-Nov-2027 12:51:19 GMT&#xd;
+Set-Cookie: igodigitalst_6274621=ba543568-cacc-11e7-bcb6-22000a3fbae1; domain=.igodigital.com; path=/; expires=Thu, 16-Nov-2017 13:51:19 GMT&#xd;
+Set-Cookie: igodigitalstdomain=6489; domain=.igodigital.com; path=/; expires=Thu, 16-Nov-2017 13:51:19 GMT&#xd;
+Status: 200 OK&#xd;
+X-Request-Id: c48bb413c53401f9fa532a925d18924e&#xd;
+X-Runtime: 0.010660&#xd;
+X-UA-Compatible: IE=Edge,chrome=1&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Sun, 17 May 1998 03:00:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/r/collect" path="/r/collect" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/339feb95-e7f7-4b21-9c51-85fb04be9763.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stats.g.doubleclick.net" slaProfileEnabled="false"
+    uid="ec1a4922-704b-4f61-86c0-1e4ac861cc62" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ec1a4922-704b-4f61-86c0-1e4ac861cc62.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ec1a4922-704b-4f61-86c0-1e4ac861cc62.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="aip"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="dc" separator="=" value="dc" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_r"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tid"
+        recordRawValue="UA-3785867-7" separator="=" value="UA-3785867-7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cid"
+        recordRawValue="1712301987.1510836627" separator="="
+        value="1712301987.1510836627" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="jid"
+        recordRawValue="1600751042" separator="=" value="1600751042" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_gid"
+        recordRawValue="1264464851.1510836627" separator="="
+        value="1264464851.1510836627" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gjid"
+        recordRawValue="1077981793" separator="=" value="1077981793" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_v"
+        recordRawValue="j65" separator="=" value="j65" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="z"
+        recordRawValue="1494084957" separator="=" value="1494084957" valueMode="USE_VALUE"/>
+    <header name="cookie" value="IDE=AHWqTUnsfzmWR7sG7M0GUytKQy_pA1fGP-OoffPFJEYb0-SIhsh2A6aM8FyftFJi"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=10886400; includeSubDomains; preload&#xd;
+date: Thu, 16 Nov 2017 12:51:19 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Sun, 17 May 1998 03:00:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+content-type: image/gif&#xd;
+server: Golfe2&#xd;
+content-length: 35&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

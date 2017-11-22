@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false" name="/nexus/rules"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/78686125-40e0-4055-b92c-1cc54669da26.zip"
+    slaProfileEnabled="false" thinkTime="1978"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="78686125-40e0-4055-b92c-1cc54669da26">
+    <embedded-action>1a85ad2b-1845-4647-8a0a-21263eadad84</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c41a4b71-5f2f-4c7c-840c-698314042db3.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 16 Nov 2017 12:52:52 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/nexus/rules" path="/nexus/rules" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/78686125-40e0-4055-b92c-1cc54669da26.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="nexusrules.officeapps.live.com" slaProfileEnabled="false"
+    uid="1a85ad2b-1845-4647-8a0a-21263eadad84" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1a85ad2b-1845-4647-8a0a-21263eadad84</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1a85ad2b-1845-4647-8a0a-21263eadad84.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="Application"
+        recordRawValue="searchprotocolhost.exe" separator="="
+        value="searchprotocolhost.exe" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="Version"
+        recordRawValue="7.0.9600.17415" separator="="
+        value="7.0.9600.17415" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ClientId"
+        recordRawValue="%7b8531045F-C89C-46D0-A1DC-4453803B8097%7d"
+        separator="=" value="{8531045F-C89C-46D0-A1DC-4453803B8097}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="OSEnvironment"
+        recordRawValue="10" separator="=" value="10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="MsoAppId"
+        recordRawValue="-2" separator="=" value="-2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="AudienceName"
+        recordRawValue="Audience_Liblet_Not_Initialized" separator="="
+        value="Audience_Liblet_Not_Initialized" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="AudienceGroup"
+        recordRawValue="Other" separator="=" value="Other" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="AppVersion"
+        recordRawValue="7.0.9600.17415" separator="="
+        value="7.0.9600.17415" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/vnd.ms-nexus-rules-v13+xml"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Host" value="nexusrules.officeapps.live.com"/>
+    <header name="User-Agent" value="Microsoft Office/16.0 (Windows NT 6.2;  16.0.8625; Pro)"/>
+    <header name="X-MS-Collection-Policy" value="ExternalRestrictive, Heartbeat"/>
+    <header name="X-MS-Process-Session-Id" value="{36CA41C9-D9BE-4741-8A5D-FF2741140B2D}"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Cache-Control: max-age=6000&#xd;
+Last-Modified: Thu, 16 Nov 2017 12:49:48 GMT&#xd;
+Server: Microsoft-IIS/8.5&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Headers: Content-Type&#xd;
+Access-Control-Allow-Methods: POST, OPTIONS&#xd;
+Access-Control-Max-Age: 300&#xd;
+Date: Thu, 16 Nov 2017 12:49:47 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

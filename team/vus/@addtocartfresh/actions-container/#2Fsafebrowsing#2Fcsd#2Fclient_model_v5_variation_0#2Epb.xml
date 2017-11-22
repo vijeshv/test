@@ -1,0 +1,79 @@
+<http-page executeResourcesDynamically="false"
+    name="/safebrowsing/csd/client_model_v5_variation_0.pb"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/31158a77-0fd3-4aec-83a2-4851f475507a.zip"
+    slaProfileEnabled="false" thinkTime="2921"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="31158a77-0fd3-4aec-83a2-4851f475507a">
+    <embedded-action>9f9612a6-948f-4f14-9756-5aa4503bdab8</embedded-action>
+    <embedded-action>8eb684f4-7e3a-4316-87bd-1ba18b95b475</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_88176662-0d6c-4285-a5f8-73fe177a1e4e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 21 Apr 2016 03:17:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/safebrowsing/csd/client_model_v5_variation_0.pb"
+    path="/safebrowsing/csd/client_model_v5_variation_0.pb" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/31158a77-0fd3-4aec-83a2-4851f475507a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="9f9612a6-948f-4f14-9756-5aa4503bdab8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9f9612a6-948f-4f14-9756-5aa4503bdab8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9f9612a6-948f-4f14-9756-5aa4503bdab8.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: application/octet-stream&#xd;
+content-length: 69547&#xd;
+date: Thu, 16 Nov 2017 06:24:53 GMT&#xd;
+expires: Fri, 24 Nov 2017 06:24:53 GMT&#xd;
+last-modified: Thu, 21 Apr 2016 03:17:22 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+age: 23098&#xd;
+cache-control: public, max-age=691200&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 21 Apr 2016 03:17:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/safebrowsing/csd/client_model_v5_ext_variation_0.pb"
+    path="/safebrowsing/csd/client_model_v5_ext_variation_0.pb"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/31158a77-0fd3-4aec-83a2-4851f475507a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="8eb684f4-7e3a-4316-87bd-1ba18b95b475" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8eb684f4-7e3a-4316-87bd-1ba18b95b475</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8eb684f4-7e3a-4316-87bd-1ba18b95b475.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: application/octet-stream&#xd;
+content-length: 69547&#xd;
+date: Thu, 09 Nov 2017 07:42:23 GMT&#xd;
+expires: Fri, 17 Nov 2017 07:42:23 GMT&#xd;
+last-modified: Thu, 21 Apr 2016 03:17:22 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=691200&#xd;
+age: 623248&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

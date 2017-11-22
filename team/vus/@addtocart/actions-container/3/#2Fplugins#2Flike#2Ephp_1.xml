@@ -1,0 +1,71 @@
+<http-page executeResourcesDynamically="false"
+    name="/plugins/like.php_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/dbff231e-39d5-496d-9be5-623e53faa38c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dbff231e-39d5-496d-9be5-623e53faa38c">
+    <embedded-action>2dd13bd2-7887-4374-8db6-392ed002cc1f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/plugins/like.php" path="/plugins/like.php"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/dbff231e-39d5-496d-9be5-623e53faa38c.zip"
+    recordedResponseCode="200" responseSize="13351"
+    serverUid="www.facebook.com" slaProfileEnabled="false"
+    uid="2dd13bd2-7887-4374-8db6-392ed002cc1f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2dd13bd2-7887-4374-8db6-392ed002cc1f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2dd13bd2-7887-4374-8db6-392ed002cc1f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="app_id"
+        recordRawValue="183267598389420" separator="="
+        value="183267598389420" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="channel"
+        recordRawValue="https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FlY4eZXm_YWu.js%3Fversion%3D42%23cb%3Df2a072d58028534%26domain%3Dwww.countryroad.com%26origin%3Dhttps%253A%252F%252Fwww.countryroad.com%252Ff9ef00273a2fb8%26relation%3Dparent.parent"
+        separator="="
+        value="https://staticxx.facebook.com/connect/xd_arbiter/r/lY4eZXm_YWu.js?version=42#cb=f2a072d58028534&amp;domain=www.countryroad.com&amp;origin=https%3A%2F%2Fwww.countryroad.com%2Ff9ef00273a2fb8&amp;relation=parent.parent" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="container_width" recordRawValue="190" separator="="
+        value="190" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="href"
+        recordRawValue="http%3A%2F%2Fwww.facebook.com%2FCountryRoad"
+        separator="=" value="http://www.facebook.com/CountryRoad" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="layout"
+        recordRawValue="button_count" separator="=" value="button_count" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="locale"
+        recordRawValue="en_GB" separator="=" value="en_GB" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sdk"
+        recordRawValue="joey" separator="=" value="joey" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="send"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="show_faces"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="width"
+        recordRawValue="90" separator="=" value="90" valueMode="USE_VALUE"/>
+    <header name="dnt" value="1"/>
+    <header name="cookie" value="fr=0buoRVdKDjnnllLdJ..BaDYmR...1.0.BaDYmR."/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept" value="text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, image/apng, */*;q=0.8"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+timing-allow-origin: *&#xd;
+x-xss-protection: 0&#xd;
+pragma: no-cache&#xd;
+content-security-policy: default-src * data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net *.google-analytics.com *.virtualearth.net *.google.com 127.0.0.1:* *.spotilocal.com:* 'unsafe-inline' 'unsafe-eval' fbstatic-a.akamaihd.net fbcdn-static-b-a.akamaihd.net *.atlassolutions.com blob: data: 'self';style-src data: blob: 'unsafe-inline' *;connect-src *.facebook.com *.fbcdn.net *.facebook.net *.spotilocal.com:* *.akamaihd.net wss://*.facebook.com:* https://fb.scanandcleanlocal.com:* *.atlassolutions.com attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' chrome-extension://boadgeojelhgndaghljhdicfkmllpafd chrome-extension://dliochdbjfkdbacpmhlcpmleaejidimm;&#xd;
+cache-control: private, no-cache, no-store, must-revalidate&#xd;
+expect-ct: max-age=10, report-uri="http://reports.fb.com/expectct/"&#xd;
+strict-transport-security: max-age=15552000; preload&#xd;
+x-content-type-options: nosniff&#xd;
+expires: Sat, 01 Jan 2000 00:00:00 GMT&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: br&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-fb-debug: LbpKwt8CQWuRI+d1sbNoISzoal10tstoIbAs8KeERR9L+1PbIKJ+DyhO0zJ5CH4uxSPODBcyX+TQa1shMOCDyg==&#xd;
+date: Thu, 16 Nov 2017 12:51:02 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

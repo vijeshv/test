@@ -1,0 +1,1073 @@
+<http-page executeResourcesDynamically="false"
+    name="/pagead/viewthroughconversion/981113113/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6d9020f5-be3a-40ae-bc36-ef2c689956fd">
+    <embedded-action>2e555336-cbbc-44b5-bea3-3f31ff2e7adf</embedded-action>
+    <embedded-action>f0e35f61-8176-4e49-88b5-c92a1299f018</embedded-action>
+    <embedded-action>43e2bac9-9a7b-4022-bff1-6cd319acd23c</embedded-action>
+    <embedded-action>0c339c47-b50c-49e2-97c3-c8bde939bd42</embedded-action>
+    <embedded-action>fb924ee9-90c8-4377-855f-d7c997060495</embedded-action>
+    <embedded-action>b3843d38-e614-4769-b6da-49ee86a270fb</embedded-action>
+    <embedded-action>5965294a-ca9a-4ad3-bae3-8a563a47c203</embedded-action>
+    <embedded-action>a414a53e-42a5-4694-9cd6-4b202e0ed963</embedded-action>
+    <embedded-action>025a11c2-6d97-49dc-b95d-aa1a214f4700</embedded-action>
+    <embedded-action>2ad2383e-2466-4331-9f5c-659b32d2a9d8</embedded-action>
+    <embedded-action>0202a37c-f14a-4812-8872-e44ad2d51184</embedded-action>
+    <embedded-action>d7f3d09f-6140-4b42-bb7f-7aa920163e69</embedded-action>
+    <embedded-action>ee20cb4a-bd0f-4857-97b5-0bfe4e5029f3</embedded-action>
+    <embedded-action>56ce3010-3ee6-44f8-b609-9ce14080af4a</embedded-action>
+    <embedded-action>a5ab4911-ab34-4cfc-9a12-21b82c3bf7e4</embedded-action>
+    <embedded-action>ccd380b5-2b90-4865-b782-60c34dc43061</embedded-action>
+    <embedded-action>501359ae-06d6-452d-b622-2273974ccc43</embedded-action>
+    <embedded-action>7836333a-f034-437d-94d4-2ae820934fa3</embedded-action>
+    <embedded-action>35a5b4cb-fb4e-4e64-a7aa-bf80f95c7e58</embedded-action>
+    <embedded-action>7051c12c-6e38-429e-aa0f-e0be6eb9ee72</embedded-action>
+    <embedded-action>9b33a2c5-096e-4368-a539-0ea40601bce5</embedded-action>
+    <embedded-action>ded40510-f307-452a-b60f-c154b5c04bc2</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6d9020f5-be3a-40ae-bc36-ef2c689956fd.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/viewthroughconversion/981113113/"
+    path="/pagead/viewthroughconversion/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="googleads.g.doubleclick.net" slaProfileEnabled="false"
+    uid="2e555336-cbbc-44b5-bea3-3f31ff2e7adf" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2e555336-cbbc-44b5-bea3-3f31ff2e7adf</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2e555336-cbbc-44b5-bea3-3f31ff2e7adf.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836698027" separator="="
+        value="1510836698027" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510836698027" separator="="
+        value="1510836698027" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart"
+        separator="="
+        value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Country%20Road%20%7C%20Women%27s%2C%20Men%27s%20%26%20Kid%27s%20Clothing%20%26%20Homewares"
+        separator="="
+        value="Country Road | Women's, Men's &amp; Kid's Clothing &amp; Homewares" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rfmt"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="IDE=AHWqTUnsfzmWR7sG7M0GUytKQy_pA1fGP-OoffPFJEYb0-SIhsh2A6aM8FyftFJi"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+location: https://www.google.com/ads/user-lists/981113113/?random=1510836698027&amp;cv=8&amp;fst=1510833600000&amp;num=1&amp;label=1NwWCO-D8QUQmbLq0wM&amp;guid=ON&amp;u_h=720&amp;u_w=1280&amp;u_ah=683&amp;u_aw=1280&amp;u_cd=24&amp;u_his=5&amp;u_tz=330&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;frm=0&amp;url=https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart&amp;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html&amp;tiba=Country%20Road%20%7C%20Women%27s%2C%20Men%27s%20%26%20Kid%27s%20Clothing%20%26%20Homewares&amp;fmt=4&amp;cdct=2&amp;is_vtc=1&amp;random=721361962&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq="googleads.g.doubleclick.net:443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic="googleads.g.doubleclick.net:443"; ma=2592000; v="41, 39, 38, 37, 35", hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/pixel/T4WP5WCK3JGFXL72UPGLGT/SGLHVBDM5RDKLDII6RFYKW"
+    path="/pixel/T4WP5WCK3JGFXL72UPGLGT/SGLHVBDM5RDKLDII6RFYKW"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="0" serverUid="d.adroll.com"
+    slaProfileEnabled="false" uid="f0e35f61-8176-4e49-88b5-c92a1299f018" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f0e35f61-8176-4e49-88b5-c92a1299f018</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f0e35f61-8176-4e49-88b5-c92a1299f018.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="pv"
+        recordRawValue="39760476055.89384" separator="="
+        value="39760476055.89384" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cookie"
+        recordRawValue="XX4DJP7KJNEENMDB65WE7H%3A4%7CSGLHVBDM5RDKLDII6RFYKW%3A4%7CT4WP5WCK3JGFXL72UPGLGT%3A4"
+        separator="="
+        value="XX4DJP7KJNEENMDB65WE7H:4|SGLHVBDM5RDKLDII6RFYKW:4|T4WP5WCK3JGFXL72UPGLGT:4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="adroll_s_ref"
+        recordRawValue="https%3A//www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html"
+        separator="="
+        value="https%3A//www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="keyw"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="adroll_external_data" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="arrfrr"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart"
+        separator="="
+        value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+Location: https://s.adroll.com/pixel/T4WP5WCK3JGFXL72UPGLGT/SGLHVBDM5RDKLDII6RFYKW/D65BHVKMNBAGDD6Z672Y3Y.js&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:29 GMT; Max-Age=34128000; Path=/&#xd;
+X-Advertisable-Eid: T4WP5WCK3JGFXL72UPGLGT&#xd;
+X-Conversion-Currency: AUD&#xd;
+X-Conversion-Value: 0.0&#xd;
+X-Pixel-Eid: SGLHVBDM5RDKLDII6RFYKW&#xd;
+X-Rule: */default.aspx?Z=c&amp;action=cart*&#xd;
+X-Segment-Display-Name: &#xd;
+X-Segment-Eid: D65BHVKMNBAGDD6Z672Y3Y&#xd;
+X-Segment-Name: 527c18a8&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ads/user-lists/981113113/"
+    path="/ads/user-lists/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302"
+    refererUid="2e555336-cbbc-44b5-bea3-3f31ff2e7adf" responseSize="863"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="43e2bac9-9a7b-4022-bff1-6cd319acd23c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_43e2bac9-9a7b-4022-bff1-6cd319acd23c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_43e2bac9-9a7b-4022-bff1-6cd319acd23c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836698027" separator="="
+        value="1510836698027" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510833600000" separator="="
+        value="1510833600000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart"
+        separator="="
+        value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Country%20Road%20%7C%20Women%27s%2C%20Men%27s%20%26%20Kid%27s%20Clothing%20%26%20Homewares"
+        separator="="
+        value="Country Road | Women's, Men's &amp; Kid's Clothing &amp; Homewares" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cdct"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="is_vtc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="721361962" separator="=" value="721361962" valueMode="USE_VALUE"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+location: https://www.google.co.in/ads/user-lists/981113113/?random=1510836698027&amp;cv=8&amp;fst=1510833600000&amp;num=1&amp;label=1NwWCO-D8QUQmbLq0wM&amp;guid=ON&amp;u_h=720&amp;u_w=1280&amp;u_ah=683&amp;u_aw=1280&amp;u_cd=24&amp;u_his=5&amp;u_tz=330&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;frm=0&amp;url=https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart&amp;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html&amp;tiba=Country%20Road%20%7C%20Women%27s%2C%20Men%27s%20%26%20Kid%27s%20Clothing%20%26%20Homewares&amp;fmt=4&amp;cdct=2&amp;is_vtc=1&amp;random=721361962&amp;ipr=y&amp;ulfeg=n&#xd;
+cache-control: private, max-age=43200&#xd;
+date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+expires: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+server: adclick_server&#xd;
+content-length: 863&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ads/user-lists/981113113/"
+    path="/ads/user-lists/981113113/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="43e2bac9-9a7b-4022-bff1-6cd319acd23c" responseSize="43"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="0c339c47-b50c-49e2-97c3-c8bde939bd42" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0c339c47-b50c-49e2-97c3-c8bde939bd42</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0c339c47-b50c-49e2-97c3-c8bde939bd42.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="1510836698027" separator="="
+        value="1510836698027" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cv"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fst"
+        recordRawValue="1510833600000" separator="="
+        value="1510833600000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="num"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="label"
+        recordRawValue="1NwWCO-D8QUQmbLq0wM" separator="="
+        value="1NwWCO-D8QUQmbLq0wM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="ON" separator="=" value="ON" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_h"
+        recordRawValue="720" separator="=" value="720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_w"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_ah"
+        recordRawValue="683" separator="=" value="683" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_aw"
+        recordRawValue="1280" separator="=" value="1280" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_his"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_tz"
+        recordRawValue="330" separator="=" value="330" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_java"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nplug"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="u_nmime"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="frm"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart"
+        separator="="
+        value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ref"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html"
+        separator="="
+        value="https://www.countryroad.com/shop/man/our-edits/cool-linen/60210724/Linen-Shirt.html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tiba"
+        recordRawValue="Country%20Road%20%7C%20Women%27s%2C%20Men%27s%20%26%20Kid%27s%20Clothing%20%26%20Homewares"
+        separator="="
+        value="Country Road | Women's, Men's &amp; Kid's Clothing &amp; Homewares" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fmt"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cdct"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="is_vtc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="random"
+        recordRawValue="721361962" separator="=" value="721361962" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ipr"
+        recordRawValue="y" separator="=" value="y" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ulfeg"
+        recordRawValue="n" separator="=" value="n" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="x-client-data" value="CKW1yQEIjbbJAQiktskBCMS2yQEI+pzKAQipncoBCNKdygEIqKPKAQ=="/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+x-content-type-options: nosniff&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: gzip&#xd;
+server: adclick_server&#xd;
+content-length: 63&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/pixel;r=1863464978;labels=_fp.event.Default;rf=3;a=p-b3ugwTLtNA-bQ;url=https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html;fpan=0;fpa=P0-1008301496-1510836647198;ns=0;ce=1;cm=;je=0;sr=1280x720x24;enc=n;dst=0;et=1510836698363;tzo=-330;ogl="
+    path="/pixel;r=1863464978;labels=_fp.event.Default;rf=3;a=p-b3ugwTLtNA-bQ;url=https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart;ref=https%3A%2F%2Fwww.countryroad.com%2Fshop%2Fman%2Four-edits%2Fcool-linen%2F60210724%2FLinen-Shirt.html;fpan=0;fpa=P0-1008301496-1510836647198;ns=0;ce=1;cm=;je=0;sr=1280x720x24;enc=n;dst=0;et=1510836698363;tzo=-330;ogl="
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="pixel.quantserve.com" slaProfileEnabled="false"
+    uid="fb924ee9-90c8-4377-855f-d7c997060495" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fb924ee9-90c8-4377-855f-d7c997060495.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fb924ee9-90c8-4377-855f-d7c997060495.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="mc=5a0d899f-1808e-fb9f7-70d7f"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="pixel.quantserve.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Connection: close&#xd;
+Content-Type: image/gif&#xd;
+Cache-Control: private, no-cache, no-store, proxy-revalidate&#xd;
+Pragma: no-cache&#xd;
+Expires: Fri, 04 Aug 1978 12:00:00 GMT&#xd;
+Content-Length: 35&#xd;
+Date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+Server: QS</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/javascript; charset=utf-8"
+    eTag="&quot;5b21bf71166f663d892429d6e57ae757&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 09 Nov 2017 21:57:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/pixel/T4WP5WCK3JGFXL72UPGLGT/SGLHVBDM5RDKLDII6RFYKW/D65BHVKMNBAGDD6Z672Y3Y.js"
+    path="/pixel/T4WP5WCK3JGFXL72UPGLGT/SGLHVBDM5RDKLDII6RFYKW/D65BHVKMNBAGDD6Z672Y3Y.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="f0e35f61-8176-4e49-88b5-c92a1299f018"
+    responseSize="7246" serverUid="s.adroll.com"
+    slaProfileEnabled="false" uid="b3843d38-e614-4769-b6da-49ee86a270fb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b3843d38-e614-4769-b6da-49ee86a270fb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b3843d38-e614-4769-b6da-49ee86a270fb.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="s.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+x-amz-id-2: 6T8aFvG78ZE8q2JVRiCKsLdg/vvtyH6nM2CI7uZi69dxIk1YkIQOPbIwVK3JZRCbii4eUNtyveA=&#xd;
+x-amz-request-id: 96AD06C4644E34CB&#xd;
+Last-Modified: Thu, 09 Nov 2017 21:57:02 GMT&#xd;
+ETag: "5b21bf71166f663d892429d6e57ae757"&#xd;
+Cache-Control: max-age=300, must-revalidate&#xd;
+x-amz-version-id: uGq8Rtj2KkJ._FgRkhBLBUvW9Imf7bgo&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Type: text/javascript; charset=utf-8&#xd;
+Server: AmazonS3&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Content-Length: 2398&#xd;
+Connection: keep-alive&#xd;
+Access-Control-Max-Age: 600&#xd;
+Access-Control-Allow-Credentials: false&#xd;
+Access-Control-Allow-Headers: *&#xd;
+Access-Control-Allow-Methods: GET&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/log/event" path="/log/event" postType="4"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="logx.optimizely.com" slaProfileEnabled="false"
+    uid="5965294a-ca9a-4ad3-bae3-8a563a47c203" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5965294a-ca9a-4ad3-bae3-8a563a47c203</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5965294a-ca9a-4ad3-bae3-8a563a47c203.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="logx.optimizely.com"/>
+    <header name="Origin" value="https://www.countryroad.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Allow-Origin: https://www.countryroad.com&#xd;
+Access-Control-Expose-Headers: X-Results-Data-Source&#xd;
+Content-Type: text/plain&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+X-Request-Id: f97142d4-b79a-475a-8cd3-5b8ec8353ca9&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"eventId":"d27396a6-0394-4360-9908-f73565490ee7","anonymizeIP":false,"timestamp":1510836698908,"revision":"3438","clientEngine":"js","clientVersion":"0.77.1","projectId":"312195565","accountId":"225165521","activationId":"1510836697875","sessionId":"AUTO","visitorId":"oeu1510836620552r0.7293605928257014","eventFeatures":[{"id":null,"shouldIndex":true,"type":"tags","name":"n_cart_items","value":1},{"id":null,"shouldIndex":true,"type":"view_category","name":"","value":"cart"}],"eventMetrics":[],"relatedEvents":[],"layerStates":[],"userFeatures":[{"id":null,"type":"first_session","name":"","shouldIndex":true,"value":true},{"id":null,"type":"browserId","name":"","shouldIndex":true,"value":"gc"},{"id":null,"type":"device","name":"","shouldIndex":true,"value":"desktop"},{"id":null,"type":"source_type","name":"","shouldIndex":true,"value":"direct"},{"id":null,"type":"currentTimestamp","name":"","shouldIndex":true,"value":1510836697897},{"id":null,"type":"offset","name":"","shouldIndex":true,"value":-330}],"activeViews":[{"viewId":"6818550520","activatedTimestamp":1510836697903,"viewFeatures":[{"id":null,"shouldIndex":true,"type":"view_category","name":"","value":"cart"},{"id":null,"shouldIndex":true,"type":"view_tag","name":"n_cart_items","value":1}]}],"isGlobalHoldback":false,"eventEntityId":"6818550520","eventType":"view_activated","eventName":"6818550520"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/aol,index,pubmatic,n,taboola/out"
+    path="/cm/aol,index,pubmatic,n,taboola/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="124"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="a414a53e-42a5-4694-9cd6-4b202e0ed963" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a414a53e-42a5-4694-9cd6-4b202e0ed963</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a414a53e-42a5-4694-9cd6-4b202e0ed963.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://pixel.rubiconproject.com/tap.php?v=194538&amp;nid=3644&amp;put=Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA&amp;expires=365&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 124&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/b/out" path="/cm/b/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="96"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="025a11c2-6d97-49dc-b95d-aa1a214f4700" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_025a11c2-6d97-49dc-b95d-aa1a214f4700</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_025a11c2-6d97-49dc-b95d-aa1a214f4700.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://x.bidswitch.net/sync?dsp_id=44&amp;user_id=Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 96&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/r/out" path="/cm/r/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="181"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="2ad2383e-2466-4331-9f5c-659b32d2a9d8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2ad2383e-2466-4331-9f5c-659b32d2a9d8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2ad2383e-2466-4331-9f5c-659b32d2a9d8.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://ads.yahoo.com/pixel?id=2498203&amp;t=2&amp;piggyback=https%3A%2F%2Fads.yahoo.com%2Fcms%2Fv1%3Fesig%3D1~bf4e7dc4546a90c08591652d78a230d3f2ef5733%26nwid%3D10001032567%26sigv%3D1&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 181&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/fb/tr/" path="/fb/tr/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="247"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="0202a37c-f14a-4812-8872-e44ad2d51184" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0202a37c-f14a-4812-8872-e44ad2d51184</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0202a37c-f14a-4812-8872-e44ad2d51184.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="1452053528174027" separator="="
+        value="1452053528174027" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ev"
+        recordRawValue="ViewContent" separator="=" value="ViewContent" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="true"
+        name="cd[content_type]" recordRawValue="product" separator="="
+        value="product" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="true"
+        name="cd[content_ids]" recordRawValue="adroll_dummy_product_"
+        separator="=" value="adroll_dummy_product_" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="true"
+        name="cd[application_id]" recordRawValue="321379434608647"
+        separator="=" value="321379434608647" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="true"
+        name="cd[product_catalog_id]" recordRawValue="1861157620566041"
+        separator="=" value="1861157620566041" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://www.facebook.com/tr/?id=1452053528174027&amp;ev=ViewContent&amp;cd[content_type]=product&amp;cd[content_ids]=adroll_dummy_product_&amp;cd[application_id]=321379434608647&amp;cd[product_catalog_id]=1861157620566041&amp;cd[external_id]=yh2LOPmPZmMk5vusTvMowA&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 247&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/x/out" path="/cm/x/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="113"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="d7f3d09f-6140-4b42-bb7f-7aa920163e69" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d7f3d09f-6140-4b42-bb7f-7aa920163e69</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d7f3d09f-6140-4b42-bb7f-7aa920163e69.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://ib.adnxs.com/pxj?bidder=172&amp;seg=802787&amp;action=setuid('Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA')&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 113&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/l/out" path="/cm/l/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="86"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="ee20cb4a-bd0f-4857-97b5-0bfe4e5029f3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ee20cb4a-bd0f-4857-97b5-0bfe4e5029f3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ee20cb4a-bd0f-4857-97b5-0bfe4e5029f3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://idsync.rlcdn.com/377928.gif?partner_uid=ca1d8b38f98f666324e6fbac4ef328c0&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:31 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 86&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif; charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/377928.gif" path="/377928.gif" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="ee20cb4a-bd0f-4857-97b5-0bfe4e5029f3" responseSize="0"
+    serverUid="idsync.rlcdn.com" slaProfileEnabled="false"
+    uid="56ce3010-3ee6-44f8-b609-9ce14080af4a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_56ce3010-3ee6-44f8-b609-9ce14080af4a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_56ce3010-3ee6-44f8-b609-9ce14080af4a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="partner_uid"
+        recordRawValue="ca1d8b38f98f666324e6fbac4ef328c0" separator="="
+        value="ca1d8b38f98f666324e6fbac4ef328c0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ck1=ck1; rlas3=mb16hJ04/FWGPcJA9mde6T0CjrMHw3JEBdwGrUqM0P2MyA9jEACu5w==; rtn1-z=IaPVs8VHz+TV9kgF3acTEbWtHlaI9O+wXJutNq66DAQ="/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="idsync.rlcdn.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Content-Type: image/gif; charset=ISO-8859-1&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+P3P: CP: "NON DSP COR PSDo SAMo BUS IND UNI COM NAV INT POL PRE"&#xd;
+Set-Cookie: rlas3=FS6sk4efF6dVz0yurT1wVD0CjrMHw3JEBdwGrUqM0P2MyA9jEACu5w==;Domain=.rlcdn.com;Expires=Tue, 15-May-2018 12:51:28 GMT&#xd;
+Set-Cookie: rtn1-z=IaPVs8VHz+TV9kgF3acTEbWtHlaI9O+wXJutNq66DAQ=;Domain=.rlcdn.com;Expires=Tue, 15-May-2018 12:51:31 GMT&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/o/out" path="/cm/o/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="302" responseSize="87"
+    serverUid="d.adroll.com" slaProfileEnabled="false"
+    uid="a5ab4911-ab34-4cfc-9a12-21b82c3bf7e4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a5ab4911-ab34-4cfc-9a12-21b82c3bf7e4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a5ab4911-ab34-4cfc-9a12-21b82c3bf7e4.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Location: https://us-u.openx.net/w/1.0/sd?id=537103138&amp;val=ca1d8b38f98f666324e6fbac4ef328c0&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 87&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sync" path="/sync" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="025a11c2-6d97-49dc-b95d-aa1a214f4700" responseSize="0"
+    serverUid="x.bidswitch.net" slaProfileEnabled="false"
+    uid="ccd380b5-2b90-4865-b782-60c34dc43061" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ccd380b5-2b90-4865-b782-60c34dc43061.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ccd380b5-2b90-4865-b782-60c34dc43061.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="dsp_id"
+        recordRawValue="44" separator="=" value="44" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="user_id"
+        recordRawValue="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA"
+        separator="="
+        value="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="c=1510836632; tuuid=f42df6bb-5495-4cb4-80f9-f852d53429de; tuuid_last_update=1510836632"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="x.bidswitch.net"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.12.0&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive&#xd;
+Keep-Alive: timeout=10&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="log.pinterest.com" slaProfileEnabled="false"
+    uid="501359ae-06d6-452d-b622-2273974ccc43" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_501359ae-06d6-452d-b622-2273974ccc43</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_501359ae-06d6-452d-b622-2273974ccc43.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="guid"
+        recordRawValue="0yGzcWMwVnvQ" separator="=" value="0yGzcWMwVnvQ" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tv"
+        recordRawValue="2017100302" separator="=" value="2017100302" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="type"
+        recordRawValue="pidget" separator="=" value="pidget" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sub"
+        recordRawValue="www" separator="=" value="www" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="button_count"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="follow_count"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pin_count"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="profile_count"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="board_count"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lang"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="via"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com%2Fdefault.aspx%3FZ%3Dc%26action%3Dcart"
+        separator="="
+        value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="callback"
+        recordRawValue="PIN_1510836698493.f.callback[0]" separator="="
+        value="PIN_1510836698493.f.callback[0]" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="log.pinterest.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Age: 0&#xd;
+VCL-backend-name: cookiemonster_prod_docker_0a019395_ec2_pin220_com&#xd;
+Via: 1.1 varnish-v4&#xd;
+X-Pinterest-Host: widgets.pinterest.com&#xd;
+Accept-Ranges: bytes&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Via: 1.1 varnish&#xd;
+Connection: keep-alive&#xd;
+X-Served-By: cache-ams4439-AMS&#xd;
+X-Cache: MISS&#xd;
+X-Cache-Hits: 0&#xd;
+X-Timer: S1510836692.555978,VS0,VE87</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pxj" path="/pxj" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="d7f3d09f-6140-4b42-bb7f-7aa920163e69" responseSize="0"
+    serverUid="ib.adnxs.com" slaProfileEnabled="false"
+    uid="7836333a-f034-437d-94d4-2ae820934fa3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7836333a-f034-437d-94d4-2ae820934fa3.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7836333a-f034-437d-94d4-2ae820934fa3.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="bidder"
+        recordRawValue="172" separator="=" value="172" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="seg"
+        recordRawValue="802787" separator="=" value="802787" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="action"
+        recordRawValue="setuid(%27Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA%27)"
+        separator="="
+        value="setuid(%27Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA%27)" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="anj=dTM7k!M4/8DunaTF']wIg2E>=kue3$!_..ye(jS3cz62Nd)%R+cb7Ell)bN7; sess=1; uuid2=4818098821290760166"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="ib.adnxs.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.13.4&#xd;
+Date: Thu, 16 Nov 2017 12:51:33 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive&#xd;
+Cache-Control: no-store, no-cache, private&#xd;
+Pragma: no-cache&#xd;
+Expires: Sat, 15 Nov 2008 16:00:00 GMT&#xd;
+P3P: policyref="http://cdn.adnxs.com/w3c/policy/p3p.xml", CP="NOI DSP COR ADM PSAo PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE"&#xd;
+X-XSS-Protection: 0&#xd;
+AN-X-Request-Uuid: 689c0b73-50c8-43b2-8d72-9ea251f49baf&#xd;
+Set-Cookie: anj=dTM7k!M4/8DunaTF']wIg2E&gt;=kue3$!v2GQe5dtf?Pz_DOsH`E.g3Vsko^@u; Path=/; Max-Age=7776000; Expires=Wed, 14-Feb-2018 12:51:33 GMT; Domain=.adnxs.com; HttpOnly&#xd;
+Set-Cookie: sess=1; Path=/; Max-Age=86400; Expires=Fri, 17-Nov-2017 12:51:33 GMT; Domain=.adnxs.com; HttpOnly&#xd;
+Set-Cookie: uuid2=4818098821290760166; Path=/; Max-Age=7776000; Expires=Wed, 14-Feb-2018 12:51:33 GMT; Domain=.adnxs.com; HttpOnly&#xd;
+X-Proxy-Origin: 45.124.159.161; 45.124.159.161; 264.bm-nginx-loadbalancer.mgmt.sin1; *.adnxs.com; 103.243.221.136:80</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pixel" path="/pixel" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="2ad2383e-2466-4331-9f5c-659b32d2a9d8" responseSize="0"
+    serverUid="ads.yahoo.com" slaProfileEnabled="false"
+    uid="35a5b4cb-fb4e-4e64-a7aa-bf80f95c7e58" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_35a5b4cb-fb4e-4e64-a7aa-bf80f95c7e58</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_35a5b4cb-fb4e-4e64-a7aa-bf80f95c7e58.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="2498203" separator="=" value="2498203" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="piggyback"
+        recordRawValue="https%3A%2F%2Fads.yahoo.com%2Fcms%2Fv1%3Fesig%3D1~bf4e7dc4546a90c08591652d78a230d3f2ef5733%26nwid%3D10001032567%26sigv%3D1"
+        separator="="
+        value="https%3A%2F%2Fads.yahoo.com%2Fcms%2Fv1%3Fesig%3D1~bf4e7dc4546a90c08591652d78a230d3f2ef5733%26nwid%3D10001032567%26sigv%3D1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="ads.yahoo.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+Content-Length: 0&#xd;
+Server: ATS&#xd;
+Age: 0&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=3600</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/g/out" path="/cm/g/out" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="d.adroll.com"
+    slaProfileEnabled="false" uid="7051c12c-6e38-429e-aa0f-e0be6eb9ee72" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7051c12c-6e38-429e-aa0f-e0be6eb9ee72.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7051c12c-6e38-429e-aa0f-e0be6eb9ee72.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="google_nid"
+        recordRawValue="adroll5" separator="=" value="adroll5" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="d.adroll.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-store, no-cache, must-revalidate&#xd;
+Content-Type: image/gif&#xd;
+Date: Thu, 16 Nov 2017 12:51:31 GMT&#xd;
+P3P: CP="NON DSP COR CURa PSA PSD OUR BUS NAV STA"&#xd;
+Pragma: no-cache&#xd;
+Server: nginx/1.10.2&#xd;
+Set-Cookie: __adroll=ca1d8b38f98f666324e6fbac4ef328c0-g_1510836641; Version=1; Expires=Sun, 16-Dec-2018 12:51:30 GMT; Max-Age=34128000; Path=/&#xd;
+Content-Length: 35&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/tap.php" path="/tap.php" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="a414a53e-42a5-4694-9cd6-4b202e0ed963" responseSize="0"
+    serverUid="pixel.rubiconproject.com" slaProfileEnabled="false"
+    uid="9b33a2c5-096e-4368-a539-0ea40601bce5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9b33a2c5-096e-4368-a539-0ea40601bce5.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9b33a2c5-096e-4368-a539-0ea40601bce5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="194538" separator="=" value="194538" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="nid"
+        recordRawValue="3644" separator="=" value="3644" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="put"
+        recordRawValue="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA"
+        separator="="
+        value="Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expires"
+        recordRawValue="365" separator="=" value="365" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="c=1; rpb=15796%3D1; put_2760=f42df6bb-5495-4cb4-80f9-f852d53429de; rpx=15796%3D69028%2C0%2C1%2C%2C; khaos=JA2H4PU9-19-DNYW"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="pixel.rubiconproject.com"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+X-RPHost: izELJUhRKGBauQy_Pfqu3w&#xd;
+Set-Cookie: rpb=15796%3D1%26194538%3D1; Domain=.rubiconproject.com; Expires=Sat, 16-Dec-2017 12:51:31 GMT; Path=/&#xd;
+Set-Cookie: put_3644=Y2ExZDhiMzhmOThmNjY2MzI0ZTZmYmFjNGVmMzI4YzA; Domain=.rubiconproject.com; Expires=Fri, 16-Nov-2018 11:59:59 GMT; Path=/&#xd;
+Set-Cookie: rpx=15796%3D69028%2C0%2C1%2C%2C%26194538%3D69028%2C0%2C1%2C%2C; Domain=.pixel.rubiconproject.com; Expires=Sat, 16-Dec-2017 12:51:31 GMT; Path=/&#xd;
+Set-Cookie: khaos=JA2H4PU9-19-DNYW; Domain=.rubiconproject.com; Expires=Fri, 18-May-2018 00:51:31 GMT; Path=/&#xd;
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"&#xd;
+Pragma: no-cache&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Expires: 0&#xd;
+Connection: keep-alive&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 42&#xd;
+Date: Thu, 16 Nov 2017 12:51:30 GMT&#xd;
+Server: Rubicon Project</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/w/1.0/sd" path="/w/1.0/sd" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/6d9020f5-be3a-40ae-bc36-ef2c689956fd.zip"
+    recordedResponseCode="200"
+    refererUid="a5ab4911-ab34-4cfc-9a12-21b82c3bf7e4" responseSize="0"
+    serverUid="us-u.openx.net" slaProfileEnabled="false"
+    uid="ded40510-f307-452a-b60f-c154b5c04bc2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ded40510-f307-452a-b60f-c154b5c04bc2.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ded40510-f307-452a-b60f-c154b5c04bc2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="537103138" separator="=" value="537103138" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="val"
+        recordRawValue="ca1d8b38f98f666324e6fbac4ef328c0" separator="="
+        value="ca1d8b38f98f666324e6fbac4ef328c0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="i=c81575ba-d3d9-49ba-b917-3fc88ed19f2e|1510836641"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="us-u.openx.net"/>
+    <header name="Referer" value="https://www.countryroad.com/default.aspx?Z=c&amp;action=cart"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Vary: Accept&#xd;
+Server: OXGW/11.174.1&#xd;
+Pragma: no-cache&#xd;
+P3P: CP="CUR ADM OUR NOR STA NID"&#xd;
+Expires: Mon, 26 Jul 1997 05:00:00 GMT&#xd;
+Date: Thu, 16 Nov 2017 12:51:32 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Cache-Control: private, max-age=0, no-cache</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

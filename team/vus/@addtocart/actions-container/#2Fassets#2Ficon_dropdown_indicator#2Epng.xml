@@ -1,0 +1,120 @@
+<http-page executeResourcesDynamically="false"
+    name="/assets/icon_dropdown_indicator.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/854f47da-4613-4c01-a1d7-ce96cb352314.zip"
+    slaProfileEnabled="false" thinkTime="939"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="854f47da-4613-4c01-a1d7-ce96cb352314">
+    <embedded-action>576b5876-d1ef-471f-8f50-168631dd6e0c</embedded-action>
+    <embedded-action>77b5d391-43a3-4d74-886b-963073487277</embedded-action>
+    <embedded-action>73ae742d-a98b-447d-89f8-fa90517481e0</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_854f47da-4613-4c01-a1d7-ce96cb352314.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;d1bd1aae7a8fd11:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 05 Apr 2016 20:35:24 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/icon_dropdown_indicator.png"
+    path="/assets/icon_dropdown_indicator.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/854f47da-4613-4c01-a1d7-ce96cb352314.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="576b5876-d1ef-471f-8f50-168631dd6e0c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_576b5876-d1ef-471f-8f50-168631dd6e0c.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_576b5876-d1ef-471f-8f50-168631dd6e0c.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.countryroad.com/assets/cr_styles_13.css"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=rOz5it8t5+CzVHNgQOLjgC9GtMRxGARH2RpJ8yWrQgbgS+Lzue31iPnwySZUvzt7U3wjW5kSgvvEX7f/fqk+dg==, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyPendingLogEvents=%5B%5D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/png&#xd;
+last-modified: Tue, 05 Apr 2016 20:35:24 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: d1bd1aae7a8fd11:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 153&#xd;
+cache-control: max-age=20297&#xd;
+expires: Thu, 16 Nov 2017 18:28:29 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:12 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;26dbe680f39acf1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 08 Jul 2014 21:28:04 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/assetimages/icon_bag.png"
+    path="/images/assetimages/icon_bag.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/854f47da-4613-4c01-a1d7-ce96cb352314.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="77b5d391-43a3-4d74-886b-963073487277" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_77b5d391-43a3-4d74-886b-963073487277.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_77b5d391-43a3-4d74-886b-963073487277.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="referer" value="https://www.countryroad.com/assets/cr_styles_13.css"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=rOz5it8t5+CzVHNgQOLjgC9GtMRxGARH2RpJ8yWrQgbgS+Lzue31iPnwySZUvzt7U3wjW5kSgvvEX7f/fqk+dg==, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyPendingLogEvents=%5B%5D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/png&#xd;
+last-modified: Tue, 08 Jul 2014 21:28:04 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 26dbe680f39acf1:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 208&#xd;
+cache-control: max-age=20266&#xd;
+expires: Thu, 16 Nov 2017 18:27:58 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:12 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/x-woff"
+    eTag="&quot;af95f964d7eccf1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 21 Oct 2014 02:33:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/fonts/lineto-brown-light-c.woff"
+    path="/images/assetimages/fonts/lineto-brown-light-c.woff"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/854f47da-4613-4c01-a1d7-ce96cb352314.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="73ae742d-a98b-447d-89f8-fa90517481e0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_73ae742d-a98b-447d-89f8-fa90517481e0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_73ae742d-a98b-447d-89f8-fa90517481e0.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.countryroad.com/images/assetimages/countryroad.css"/>
+    <header name="accept-language" value="en"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=rOz5it8t5+CzVHNgQOLjgC9GtMRxGARH2RpJ8yWrQgbgS+Lzue31iPnwySZUvzt7U3wjW5kSgvvEX7f/fqk+dg==, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyPendingLogEvents=%5B%5D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="origin" value="https://www.countryroad.com"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: font/x-woff&#xd;
+last-modified: Tue, 21 Oct 2014 02:33:27 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: af95f964d7eccf1:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 65064&#xd;
+cache-control: max-age=20324&#xd;
+expires: Thu, 16 Nov 2017 18:28:56 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:12 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

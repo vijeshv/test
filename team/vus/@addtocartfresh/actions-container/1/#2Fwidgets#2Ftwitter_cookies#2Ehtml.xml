@@ -1,0 +1,676 @@
+<http-page executeResourcesDynamically="false"
+    name="/widgets/twitter_cookies.html"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="85245012-97e6-49cb-982d-5cb9a369af36">
+    <embedded-action>9dc6ad0e-e886-4357-bc2c-6c202e5b21fd</embedded-action>
+    <embedded-action>84086a3c-041d-4fc5-a5ec-016f4332a590</embedded-action>
+    <embedded-action>d8cd0097-305a-46a1-a997-83b7a863f8d4</embedded-action>
+    <embedded-action>135a4945-c142-4651-b2ed-e5e96101fac9</embedded-action>
+    <embedded-action>1b7dbdf0-a817-4297-9052-434f0654f4d2</embedded-action>
+    <embedded-action>ed124670-f394-4228-aad0-549086f62c21</embedded-action>
+    <embedded-action>31845a75-b0b5-493f-b081-95836309fbc5</embedded-action>
+    <embedded-action>9ccc7e57-96c6-44a5-93f4-3930532ae11e</embedded-action>
+    <embedded-action>92461af4-8e63-493d-8941-b87fdcee337c</embedded-action>
+    <embedded-action>b3e55881-930b-4679-9e08-27cb1d63fe1f</embedded-action>
+    <embedded-action>7b427899-6023-4637-968d-5c1593502457</embedded-action>
+    <embedded-action>daab4e76-e590-4923-ae5f-6fe603dd7968</embedded-action>
+    <embedded-action>9ceef71a-940b-41a6-9403-503376adf3c2</embedded-action>
+    <embedded-action>89a962ca-48e8-4d90-b8e6-6316e1215fb4</embedded-action>
+    <embedded-action>2a4a285e-6f2c-4ad6-be50-481dc36829da</embedded-action>
+    <embedded-action>0fc87b26-e1d9-4e12-8e4d-dd84d54fa204</embedded-action>
+    <embedded-action>10c90348-672b-4d5a-ba35-e23a9928f320</embedded-action>
+    <embedded-action>70e8727d-9e24-4805-896d-9e24eb1e1aa5</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_11bbed40-83a7-4fd7-88c5-e7684076c2fd.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    eTag="&quot;c954a1462acd1f392a78b4cfee39f3e5+gzip&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 14 Nov 2017 19:28:32 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/widgets/twitter_cookies.html"
+    path="/widgets/twitter_cookies.html" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="4142"
+    serverUid="platform.twitter.com" slaProfileEnabled="false"
+    uid="9dc6ad0e-e886-4357-bc2c-6c202e5b21fd" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9dc6ad0e-e886-4357-bc2c-6c202e5b21fd.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9dc6ad0e-e886-4357-bc2c-6c202e5b21fd.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="namespace"
+        recordRawValue="twttr%3Acookies" separator="="
+        value="twttr:cookies" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="origin"
+        recordRawValue="https%3A%2F%2Fwww.countryroad.com" separator="="
+        value="https://www.countryroad.com" valueMode="USE_VALUE"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/?popupwsid=1"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, image/apng, */*;q=0.8"/>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Thu, 16 Nov 2017 12:50:20 GMT&#xd;
+last-modified: Tue, 14 Nov 2017 19:28:32 GMT&#xd;
+cache-control: public, max-age=315360000&#xd;
+content-type: text/html; charset=utf-8&#xd;
+etag: c954a1462acd1f392a78b4cfee39f3e5+gzip&#xd;
+content-encoding: gzip&#xd;
+accept-ranges: bytes&#xd;
+via: 1.1 varnish&#xd;
+age: 148858&#xd;
+x-served-by: cache-tw-sin1-cr1-15-TWSIN1&#xd;
+x-cache: HIT&#xd;
+x-timer: S1510836621.894960, VS0, VE0&#xd;
+vary: Accept-Encoding, Host&#xd;
+p3p: CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT"&#xd;
+content-length: 1836</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;bc5f73eddb1cd11:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 11 Nov 2015 23:51:47 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/slick/slick.css"
+    path="/assets/slick/slick.css" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="1767"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="84086a3c-041d-4fc5-a5ec-016f4332a590" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_84086a3c-041d-4fc5-a5ec-016f4332a590.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_84086a3c-041d-4fc5-a5ec-016f4332a590.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="text/css, */*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/css&#xd;
+last-modified: Wed, 11 Nov 2015 23:51:47 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: bc5f73eddb1cd11:0&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+cache-control: max-age=86204&#xd;
+expires: Fri, 17 Nov 2017 12:47:05 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT&#xd;
+content-length: 564</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;3663c0cb7c29cd1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 03 May 2012 22:33:43 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/jquery.js" path="/assets/jquery.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="94843"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="d8cd0097-305a-46a1-a997-83b7a863f8d4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d8cd0097-305a-46a1-a997-83b7a863f8d4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d8cd0097-305a-46a1-a997-83b7a863f8d4.txt</requestContentFileDescription>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept" value="*/*"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Thu, 03 May 2012 22:33:43 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 3663c0cb7c29cd1:0&#xd;
+content-length: 94843&#xd;
+cache-control: max-age=60383&#xd;
+expires: Fri, 17 Nov 2017 05:36:44 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;10107eeddb1cd11:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 11 Nov 2015 23:51:47 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/slick/slick.min.js"
+    path="/assets/slick/slick.min.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="40143"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="135a4945-c142-4651-b2ed-e5e96101fac9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_135a4945-c142-4651-b2ed-e5e96101fac9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_135a4945-c142-4651-b2ed-e5e96101fac9.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Wed, 11 Nov 2015 23:51:47 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 10107eeddb1cd11:0&#xd;
+content-length: 40143&#xd;
+cache-control: max-age=3854&#xd;
+expires: Thu, 16 Nov 2017 13:54:35 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;e0638b38fa5bd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 12 Nov 2017 21:07:17 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/cr_scripts_13.js"
+    path="/assets/cr_scripts_13.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="503304"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="1b7dbdf0-a817-4297-9052-434f0654f4d2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1b7dbdf0-a817-4297-9052-434f0654f4d2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1b7dbdf0-a817-4297-9052-434f0654f4d2.txt</requestContentFileDescription>
+    <header name="accept" value="*/*"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Sun, 12 Nov 2017 21:07:17 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: e0638b38fa5bd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 503304&#xd;
+cache-control: max-age=60410&#xd;
+expires: Fri, 17 Nov 2017 05:37:11 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;8c7cf971b71ed21:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 05 Oct 2016 03:20:38 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/countryroad.js"
+    path="/assets/countryroad.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="5611"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="ed124670-f394-4228-aad0-549086f62c21" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ed124670-f394-4228-aad0-549086f62c21</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ed124670-f394-4228-aad0-549086f62c21.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Wed, 05 Oct 2016 03:20:38 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 8c7cf971b71ed21:0&#xd;
+content-length: 5611&#xd;
+cache-control: max-age=60450&#xd;
+expires: Fri, 17 Nov 2017 05:37:51 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;2fe0717ed455d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Sun, 05 Nov 2017 01:22:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/assetimages/countryroad.js"
+    path="/images/assetimages/countryroad.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="18005"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="31845a75-b0b5-493f-b081-95836309fbc5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_31845a75-b0b5-493f-b081-95836309fbc5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_31845a75-b0b5-493f-b081-95836309fbc5.txt</requestContentFileDescription>
+    <header name="accept" value="*/*"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Sun, 05 Nov 2017 01:22:06 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 2fe0717ed455d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 4435&#xd;
+cache-control: max-age=86109&#xd;
+expires: Fri, 17 Nov 2017 12:45:30 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;8e1053cbea46d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 17 Oct 2017 01:53:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/cr_payments_13.js"
+    path="/assets/cr_payments_13.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="16062"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="9ccc7e57-96c6-44a5-93f4-3930532ae11e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9ccc7e57-96c6-44a5-93f4-3930532ae11e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ccc7e57-96c6-44a5-93f4-3930532ae11e.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Tue, 17 Oct 2017 01:53:57 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 8e1053cbea46d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 16062&#xd;
+cache-control: max-age=60423&#xd;
+expires: Fri, 17 Nov 2017 05:37:24 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;e4702ed5708cd1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 22 Mar 2012 21:14:56 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/swfobject.js" path="/assets/swfobject.js"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="9763"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="92461af4-8e63-493d-8941-b87fdcee337c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_92461af4-8e63-493d-8941-b87fdcee337c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_92461af4-8e63-493d-8941-b87fdcee337c.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+last-modified: Thu, 22 Mar 2012 21:14:56 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: e4702ed5708cd1:0&#xd;
+content-length: 9763&#xd;
+cache-control: max-age=60383&#xd;
+expires: Fri, 17 Nov 2017 05:36:44 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="&quot;69d8d5cb7c29cd1:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 03 May 2012 22:33:43 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/logo.gif" path="/assets/logo.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="b3e55881-930b-4679-9e08-27cb1d63fe1f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b3e55881-930b-4679-9e08-27cb1d63fe1f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b3e55881-930b-4679-9e08-27cb1d63fe1f.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/gif&#xd;
+last-modified: Thu, 03 May 2012 22:33:43 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 69d8d5cb7c29cd1:0&#xd;
+content-length: 2411&#xd;
+cache-control: max-age=356056&#xd;
+expires: Mon, 20 Nov 2017 15:44:37 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;9be1b2f8c056d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 06 Nov 2017 05:34:53 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-3-catalogue.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-3-catalogue.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="7b427899-6023-4637-968d-5c1593502457" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7b427899-6023-4637-968d-5c1593502457</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7b427899-6023-4637-968d-5c1593502457.txt</requestContentFileDescription>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Mon, 06 Nov 2017 05:34:53 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 9be1b2f8c056d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 91452&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:21 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;54dbcafcbc4bd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 23 Oct 2017 05:08:39 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-1-shorts.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-1-shorts.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="daab4e76-e590-4923-ae5f-6fe603dd7968" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_daab4e76-e590-4923-ae5f-6fe603dd7968</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_daab4e76-e590-4923-ae5f-6fe603dd7968.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="dnt" value="1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Mon, 23 Oct 2017 05:08:39 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 54dbcafcbc4bd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 43219&#xd;
+cache-control: max-age=604758&#xd;
+expires: Thu, 23 Nov 2017 12:49:40 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;6fa444fec056d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 06 Nov 2017 05:35:02 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-3-tailored-jackets.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-3-tailored-jackets.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="9ceef71a-940b-41a6-9403-503376adf3c2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9ceef71a-940b-41a6-9403-503376adf3c2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ceef71a-940b-41a6-9403-503376adf3c2.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Mon, 06 Nov 2017 05:35:02 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 6fa444fec056d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 31608&#xd;
+cache-control: max-age=604785&#xd;
+expires: Thu, 23 Nov 2017 12:50:07 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;3ae478fabc4bd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 23 Oct 2017 05:08:35 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-1-shoes.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-1-shoes.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="89a962ca-48e8-4d90-b8e6-6316e1215fb4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_89a962ca-48e8-4d90-b8e6-6316e1215fb4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_89a962ca-48e8-4d90-b8e6-6316e1215fb4.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Mon, 23 Oct 2017 05:08:35 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 3ae478fabc4bd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 7471&#xd;
+cache-control: max-age=604777&#xd;
+expires: Thu, 23 Nov 2017 12:49:59 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;697c67889952d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 31 Oct 2017 22:42:29 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-2-cool-linen.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-2-cool-linen.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="2a4a285e-6f2c-4ad6-be50-481dc36829da" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2a4a285e-6f2c-4ad6-be50-481dc36829da</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2a4a285e-6f2c-4ad6-be50-481dc36829da.txt</requestContentFileDescription>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Tue, 31 Oct 2017 22:42:29 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 697c67889952d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 25323&#xd;
+cache-control: max-age=604794&#xd;
+expires: Thu, 23 Nov 2017 12:50:15 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;4f5f98fbc056d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 06 Nov 2017 05:34:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-3-lookbook.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-3-lookbook.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="0fc87b26-e1d9-4e12-8e4d-dd84d54fa204" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0fc87b26-e1d9-4e12-8e4d-dd84d54fa204</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0fc87b26-e1d9-4e12-8e4d-dd84d54fa204.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Mon, 06 Nov 2017 05:34:57 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 4f5f98fbc056d31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 12798&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:22 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;d184ebcc45dd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Nov 2017 03:49:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/man/country-road-man-5-one-of-a-kind.jpg"
+    path="/images/assetimages/cr-2017/11/man/country-road-man-5-one-of-a-kind.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="10c90348-672b-4d5a-ba35-e23a9928f320" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_10c90348-672b-4d5a-ba35-e23a9928f320</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_10c90348-672b-4d5a-ba35-e23a9928f320.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="dnt" value="1"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Wed, 15 Nov 2017 03:49:27 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: d184ebcc45dd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 32835&#xd;
+cache-control: max-age=604755&#xd;
+expires: Thu, 23 Nov 2017 12:49:36 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:21 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;1f7efa5c45dd31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Nov 2017 03:48:50 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/assetimages/cr-2017/11/woman/country-road-woman-5-redkite.jpg"
+    path="/images/assetimages/cr-2017/11/woman/country-road-woman-5-redkite.jpg"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocartfresh/%resources%/recorded-artifacts/85245012-97e6-49cb-982d-5cb9a369af36.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.countryroad.com" slaProfileEnabled="false"
+    uid="70e8727d-9e24-4805-896d-9e24eb1e1aa5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_70e8727d-9e24-4805-896d-9e24eb1e1aa5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_70e8727d-9e24-4805-896d-9e24eb1e1aa5.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="ASP.NET_SessionId=ae3tqgbnvaiq3jgn03pqthty, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, esw.SessionId=acewrsxqhlqnaj2sl3c1ghcc, optimizelyPendingLogEvents=%5B%5D, cartAbandon=0, dl_1st_party_cookie=www.countryroad.com+ee45c8ba-2037-46ae-81fe-11a1b0bf3007, dl_session_id=knxhlynbo1, __ar_v4=, _gat_UA-103078636-1=1, _gat_UA-3785867-7=1, esw.location=%7B%22continent%22%3A%7B%22code%22%3A%22AS%22%2C%22geoname_id%22%3A6255147%2C%22names%22%3A%7B%22pt-BR%22%3A%22%C1sia%22%2C%22ru%22%3A%22%u0410%u0437%u0438%u044F%22%2C%22zh-CN%22%3A%22%u4E9A%u6D32%22%2C%22de%22%3A%22Asien%22%2C%22en%22%3A%22Asia%22%2C%22es%22%3A%22Asia%22%2C%22fr%22%3A%22Asie%22%2C%22ja%22%3A%22%u30A2%u30B8%u30A2%22%7D%7D%2C%22country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22registered_country%22%3A%7B%22iso_code%22%3A%22IN%22%2C%22geoname_id%22%3A1269750%2C%22names%22%3A%7B%22pt-BR%22%3A%22%CDndia%22%2C%22ru%22%3A%22%u0418%u043D%u0434%u0438%u044F%22%2C%22zh-CN%22%3A%22%u5370%u5EA6%22%2C%22de%22%3A%22Indien%22%2C%22en%22%3A%22India%22%2C%22es%22%3A%22India%22%2C%22fr%22%3A%22Inde%22%2C%22ja%22%3A%22%u30A4%u30F3%u30C9%22%7D%7D%2C%22traits%22%3A%7B%22ip_address%22%3A%2245.124.159.161%22%7D%2C%22represented_country%22%3A%7B%22names%22%3A%7B%7D%7D%7D, esw.currency=INR, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, cartCount=0, loggedIn=False, countryCode=IX, SLI=cartCount=0, countryCode=IX, loggedIn=False, iSAMS=QiPp8wFlyTUoWzBxYrrXOYhtoQK9FrPnqFZMQNgriREPhPwZOp5ulNsxJAJrLh1GoaXE56dEl0Cvt5F9GnRHrA=="/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="referer" value="https://www.countryroad.com/shop/man"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="image/webp, image/apng, image/*, */*;q=0.8"/>
+    <header name="accept-language" value="en"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/jpeg&#xd;
+last-modified: Wed, 15 Nov 2017 03:48:50 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 1f7efa5c45dd31:0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: NOSNIFF&#xd;
+content-length: 6270&#xd;
+cache-control: max-age=604800&#xd;
+expires: Thu, 23 Nov 2017 12:50:22 GMT&#xd;
+date: Thu, 16 Nov 2017 12:50:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

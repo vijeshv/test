@@ -1,0 +1,295 @@
+<http-page executeResourcesDynamically="false"
+    name="/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    slaProfileEnabled="false" thinkTime="546"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bf5bf3ed-45e1-4450-863c-b98dc2195f90">
+    <embedded-action>115d72e0-cb9a-43c5-9902-06b8aa3c1880</embedded-action>
+    <embedded-action>72dd5020-7a57-4cee-b585-550ca91359cc</embedded-action>
+    <embedded-action>7203435a-6d7e-435a-988c-cbbc8940c6d4</embedded-action>
+    <embedded-action>1df44bd7-2767-436c-bcd7-03515308e527</embedded-action>
+    <embedded-action>12595d45-cb91-48e7-815f-89e0e4638ff5</embedded-action>
+    <embedded-action>e8206f92-cff6-42ed-8782-2953451c9bcb</embedded-action>
+    <embedded-action>11abd5a0-7364-4198-a83d-d9d5c6adb35e</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_bf5bf3ed-45e1-4450-863c-b98dc2195f90.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/font-woff2"
+    eTag="&quot;af7ae505a9eed503f8b8e6982036873e&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 25 Oct 2016 15:50:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2"
+    path="/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="maxcdn.bootstrapcdn.com" slaProfileEnabled="false"
+    uid="115d72e0-cb9a-43c5-9902-06b8aa3c1880" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_115d72e0-cb9a-43c5-9902-06b8aa3c1880</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_115d72e0-cb9a-43c5-9902-06b8aa3c1880.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="4.7.0" separator="=" value="4.7.0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="maxcdn.bootstrapcdn.com"/>
+    <header name="Origin" value="https://international.countryroad.com"/>
+    <header name="Referer" value="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Thu, 16 Nov 2017 12:51:46 GMT&#xd;
+Content-Type: application/font-woff2&#xd;
+Content-Length: 77160&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Tue, 25 Oct 2016 15:50:14 GMT&#xd;
+ETag: "af7ae505a9eed503f8b8e6982036873e"&#xd;
+x-amz-meta-version-id: 7G0ec11eefKVnJqO2TDXZea7fEDW116p&#xd;
+Server: NetDNA-cache/2.2&#xd;
+Expires: Sun, 11 Nov 2018 12:51:46 GMT&#xd;
+Cache-Control: max-age=31104000&#xd;
+Vary: Accept-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+X-Hello-Human: Say hello back! @getBootstrapCDN on Twitter&#xd;
+X-Cache: HIT&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gtm.js" path="/gtm.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="54075"
+    serverUid="www.googletagmanager.com" slaProfileEnabled="false"
+    uid="72dd5020-7a57-4cee-b585-550ca91359cc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_72dd5020-7a57-4cee-b585-550ca91359cc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_72dd5020-7a57-4cee-b585-550ca91359cc.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="GTM-NSLSSWD" separator="=" value="GTM-NSLSSWD" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript; charset=UTF-8&#xd;
+access-control-allow-origin: http://www.googletagmanager.com&#xd;
+access-control-allow-headers: Cache-Control&#xd;
+access-control-allow-credentials: true&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+date: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+expires: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+cache-control: private, max-age=900&#xd;
+server: Google Tag Manager (scaffolding)&#xd;
+content-length: 21068&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/fullHashes:find" path="/v4/fullHashes:find"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="safebrowsing.googleapis.com" slaProfileEnabled="false"
+    uid="7203435a-6d7e-435a-988c-cbbc8940c6d4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7203435a-6d7e-435a-988c-cbbc8940c6d4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7203435a-6d7e-435a-988c-cbbc8940c6d4.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="false" name="$req"
+        recordRawValue="Ch0KDGdvb2dsZWNocm9tZRINNjEuMC4zMTYzLjEwMBooCAEIAggDCAYIBwgICAkICggNEAEQCBoGCgRvGS6UIAEgAyAEIAUgBg=="
+        separator="="
+        value="Ch0KDGdvb2dsZWNocm9tZRINNjEuMC4zMTYzLjEwMBooCAEIAggDCAYIBwgICAkICggNEAEQCBoGCgRvGS6UIAEgAyAEIAUgBg==" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="x-http-method-override" value="POST"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+content-encoding: gzip&#xd;
+date: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+server: ESF&#xd;
+cache-control: private&#xd;
+content-length: 82&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/fullHashes:find" path="/v4/fullHashes:find"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="safebrowsing.googleapis.com" slaProfileEnabled="false"
+    uid="1df44bd7-2767-436c-bcd7-03515308e527" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1df44bd7-2767-436c-bcd7-03515308e527</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1df44bd7-2767-436c-bcd7-03515308e527.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="false" name="$req"
+        recordRawValue="Ch0KDGdvb2dsZWNocm9tZRINNjEuMC4zMTYzLjEwMBooCAEIAggDCAYIBwgICAkICggNEAEQCBoGCgRvGS6UIAEgAyAEIAUgBg=="
+        separator="="
+        value="Ch0KDGdvb2dsZWNocm9tZRINNjEuMC4zMTYzLjEwMBooCAEIAggDCAYIBwgICAkICggNEAEQCBoGCgRvGS6UIAEgAyAEIAUgBg==" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="x-http-method-override" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+content-encoding: gzip&#xd;
+date: Thu, 16 Nov 2017 12:51:46 GMT&#xd;
+server: ESF&#xd;
+cache-control: private&#xd;
+content-length: 82&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335, quic=":443"; ma=2592000; v="41, 39, 38, 37, 35"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    eTag="&quot;539571b6a59d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 09 Nov 2017 14:50:11 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/node_modules/@esw/cdn/translations/Checkout.en.json"
+    path="/node_modules/@esw/cdn/translations/Checkout.en.json"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="10404"
+    serverUid="international.countryroad.com" slaProfileEnabled="false"
+    uid="12595d45-cb91-48e7-815f-89e0e4638ff5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_12595d45-cb91-48e7-815f-89e0e4638ff5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_12595d45-cb91-48e7-815f-89e0e4638ff5.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="cookie" value="__qca=P0-1008301496-1510836647198, _gat_UA-3785867-7=1, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, _gat_UA-103078636-1=1, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, optimizelyPendingLogEvents=%5B%5D, ASP.NET_SessionId=nuhc5rksnjiymwm2d5ejwp4m, esw.SessionId=nuhc5rksnjiymwm2d5ejwp4m, eSwCurrentCurrency=en-US"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="application/json, text/plain, */*"/>
+    <header name="referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+last-modified: Thu, 09 Nov 2017 14:50:11 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 539571b6a59d31:0&#xd;
+server: Microsoft-IIS/10.0&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+content-length: 10404</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    eTag="&quot;539571b6a59d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 09 Nov 2017 14:50:11 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/node_modules/@esw/cdn/translations/Countries.en.json"
+    path="/node_modules/@esw/cdn/translations/Countries.en.json"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="4558"
+    serverUid="international.countryroad.com" slaProfileEnabled="false"
+    uid="e8206f92-cff6-42ed-8782-2953451c9bcb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e8206f92-cff6-42ed-8782-2953451c9bcb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e8206f92-cff6-42ed-8782-2953451c9bcb.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="referer" value="https://international.countryroad.com/S0FBQUFBRW9BTmYvRmJxQ3RCbnFvNzEwaTRYZ0FIZjZiQXhlaFM5TTlFMVVrRi84MUFyb0ZnWi90ODRYbVkwRFl3PT01"/>
+    <header name="cookie" value="__qca=P0-1008301496-1510836647198, _gat_UA-3785867-7=1, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, _gat_UA-103078636-1=1, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, optimizelyPendingLogEvents=%5B%5D, ASP.NET_SessionId=nuhc5rksnjiymwm2d5ejwp4m, esw.SessionId=nuhc5rksnjiymwm2d5ejwp4m, eSwCurrentCurrency=en-US"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="accept-language" value="en"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="application/json, text/plain, */*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+last-modified: Thu, 09 Nov 2017 14:50:11 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: 539571b6a59d31:0&#xd;
+server: Microsoft-IIS/10.0&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+content-length: 4558</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;e0d16cb6a59d31:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 09 Nov 2017 14:50:11 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/fonts/glyphicons-halflings-regular.woff2"
+    path="/fonts/glyphicons-halflings-regular.woff2" postType="1"
+    recordedArtifactZipFileName="team/vus/@addtocart/%resources%/recorded-artifacts/bf5bf3ed-45e1-4450-863c-b98dc2195f90.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="international.countryroad.com" slaProfileEnabled="false"
+    uid="11abd5a0-7364-4198-a83d-d9d5c6adb35e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_11abd5a0-7364-4198-a83d-d9d5c6adb35e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_11abd5a0-7364-4198-a83d-d9d5c6adb35e.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"/>
+    <header name="origin" value="https://international.countryroad.com"/>
+    <header name="accept" value="*/*"/>
+    <header name="cookie" value="__qca=P0-1008301496-1510836647198, _gat_UA-3785867-7=1, optimizelySegments=%7B%22312466352%22%3A%22gc%22%2C%22312488296%22%3A%22false%22%2C%22312517250%22%3A%22none%22%2C%22312527282%22%3A%22direct%22%2C%222205511171%22%3A%22true%22%2C%227030481274%22%3A%22true%22%7D, optimizelyBuckets=%7B%7D, optimizelyEndUserId=oeu1510836620552r0.7293605928257014, _gat_UA-103078636-1=1, _ga=GA1.2.1712301987.1510836627, _gid=GA1.2.1264464851.1510836627, optimizelyPendingLogEvents=%5B%5D, ASP.NET_SessionId=nuhc5rksnjiymwm2d5ejwp4m, esw.SessionId=nuhc5rksnjiymwm2d5ejwp4m, eSwCurrentCurrency=en-US"/>
+    <header name="referer" value="https://international.countryroad.com/bundles/standard_app_styles?v=RsRzj7r7AwzxQeMXEwopW0GyeMvXAbRBfBLnsMYANME1"/>
+    <header name="dnt" value="1"/>
+    <header name="accept-language" value="en"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/font-woff&#xd;
+last-modified: Thu, 09 Nov 2017 14:50:11 GMT&#xd;
+accept-ranges: bytes&#xd;
+etag: e0d16cb6a59d31:0&#xd;
+server: Microsoft-IIS/10.0&#xd;
+strict-transport-security: max-age=16070400&#xd;
+x-frame-options: ALLOWALL&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+access-control-allow-origin: *&#xd;
+date: Thu, 16 Nov 2017 12:51:45 GMT&#xd;
+content-length: 18028</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
